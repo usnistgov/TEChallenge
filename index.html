@@ -1,12 +1,11 @@
 ---
-layout: default
+layout: default  
 title: Home
 ---
-
 <section class="home home-title">
   <hgroup>
     <h1>NIST Transactive Energy Challenge</h1>
-    <img class="logo" src="{{ site.baseurl }}/assets/logo.png" alt="Green Button">
+    <img class="logo" src="{{ site.baseurl }}/assets/TEChallenge1.png" alt="TE Challenge"> <!-- size of image set in style.css "home-title img" -->
     <h2>Exposing Powerful Techniques for Transactive Energy</h2>
   </hgroup>
 </section>
@@ -18,36 +17,36 @@ title: Home
 <hr />
 
       <h2 class="section-title">What is the TE Challenge?</h2>
-      <p class="lead">Describe the TE Challenge.</p>
-<p>Transactive Energy (TE) refers to techniques for managing the generation, consumption, or flow of electric power within the electric power system through the use of economic or market-based constructs while considering grid reliability constraints. As the electric grid transforms to integrate more wind and solar energy and to give customers more choice and control in their use of energy, the concept of transactive energy is likely to play a key role. Members of NIST’s Smart Grid Team have been working closely with the Department of Energy to understand TE’s potential and to support technology developers and policy makers. The TE Challenge will bring researchers and companies with simulation tools together with utilities, product developers, and other grid stakeholders to create and demonstrate modeling and simulation platforms while applying transactive energy approaches to real grid problems.  </p>
+	<p>Transactive Energy (TE) refers to techniques for managing the generation, consumption, or flow of electric power within the electric power system through the use of economic or market-based constructs while considering grid reliability constraints. As the electric grid transforms to integrate more wind and solar energy and to give customers more choice and control in their use of energy, the concept of transactive energy is likely to play a key role. Members of NIST’s Smart Grid Team have been working closely with the Department of Energy to understand TE’s potential and to support technology developers and policy makers. The TE Challenge will bring researchers and companies with simulation tools together with utilities, product developers, and other grid stakeholders to create and demonstrate modeling and simulation platforms while applying transactive energy approaches to real grid problems.</p>
+	
       <ul class="audiences">
         <li>
           <div class="icon">
-            <i class="fa fa-graduation-cap"></i>
+            <i class="fa fa-info"></i>
           </div>
-          <h3><a href="{{ site.baseurl }}/learn">Learn</a></h3>
-          How the TE Challenge helps you!
+          <h3><a href="http://www.nist.gov/smartgrid/techallenge.cfm">Learn</a></h3>
+          TE Challenge Introduction, Timeline, and Benefits for Participation
         </li>
         <li>
           <div class="icon">
-            <i class="fa fa-bar-chart-o"></i>
+            <i class="fa fa-wrench"></i>
           </div>
-          <h3><a href="{{ site.baseurl }}/use">Use</a></h3>
-          Energy usage data for you!!
+          <h3><a href="{{ site.baseurl }}/toolchest">Tool Chest</a></h3>
+          Co-sim Platforms, Simulation Tools, Data Sets, Baseline Scenarios
         </li>
         <li>
           <div class="icon">
             <i class="fa fa-users"></i>
           </div>
           <h3><a href="{{ site.baseurl }}/community">Community</a></h3>
-	  Getting involved in the TE Challenge</a>!
+		  Teams involved in the TE Challenge
         </li>
         <li>
           <div class="icon">
-            <i class="fa fa-code"></i>
+            <i class="fa fa-thumbs-up"></i>
           </div>
-          <h3><a href="{{ site.baseurl }}/build">Build</a></h3>
-          Tools for Use in the TE Challenge
+          <h3><a href="{{ site.baseurl }}/join">Join</a></h3>
+          Register for the TE Challenge!
         </li>
         <li>
           <div class="icon">
@@ -64,54 +63,20 @@ title: Home
   <div class="section-container">
     <div class="section-content">
       <h2 class="section-title">Who's participating in the TE Challenge?</h2>
-      <p class="lede">Describe the list</p>
+      <p class="lede">Participating Organizations</p>
 
 	 <ul class="partner_list">
 		{% for partner in site.data.partners %}
-        {% if partner.status == "implemented" or partner.type == "government"%}
-		{% if partner.featured %}
-		{% if partner.GBA %}
-        <li><img class="logo" src="{{ site.baseurl }}/assets/GBAlogo.png" width="30px" height="30px">
-			{% if partner.certified == "DMD" %}
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaDMD.png" width="30px" height="30px">
-			{% endif %}
-			{% if partner.certified == "CMD" %}
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaCMD.png" width="30px" height="30px">
-			{% endif %}
-			{% if partner.certified == "DMD/CMD" %}
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaDMD.png" width="30px" height="30px">
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaCMD.png" width="30px" height="30px">
-			{% endif %}
-		<a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
-		{% endif %}
-		{% endif %}
-		{% endif %}
-		{% endfor %}
-		{% for partner in site.data.partners %}
-        {% if partner.status == "implemented" or partner.type == "government"%}
-		{% if partner.featured %}
-		{% if partner.GBA %}
-		{% else %}
-        <li>{% if partner.certified == "DMD" %}
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaDMD.png" width="30px" height="30px">
-			{% endif %}
-			{% if partner.certified == "CMD" %}
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaCMD.png" width="30px" height="30px">
-			{% endif %}
-			{% if partner.certified == "DMD/CMD" %}
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaDMD.png" width="30px" height="30px">
-				<img class="logo" src="{{ site.baseurl }}/assets/gbaCMD.png" width="30px" height="30px">
-			{% endif %}
-		<a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
-		{% endif %}
-		{% endif %}
-		{% endif %}
+       
+		<li><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></li>
+
 		{% endfor %}
 	</ul>
 
 
-      <div class="lead end-cta">Don't see your company? &nbsp; <a class="buttonish" href=mailto:info@greenbuttondata.org?subject=Getting%20started%20with%20Green%20Button&#038;body=Hi!%0A%0AI’d%20like%20to%20get%20started%20with%20Green%20Button.%20Could%20you%20send%20me%20more%20information?%0A%0AThanks,%0A%0A[Your%20name]%0A[Your%20organization]%0A[Your%20contact%20information]>Join Green Button Today</a><br />
+      <div class="lead end-cta">Want to participate? &nbsp; <a class="buttonish" href=mailto:david.holmberg@nist.gov?subject=TEChallenge--more%20info&#038;body=Hi!%0A%0AI’d%20like%20to%20learn%20more%20about%20how%20our%20organization%20can%20participate%20in%20the%20TEChallenge.%20Please%20send%20me%20more%20information?%0A%0AThanks,%0A%0A[Your%20name]%0A[Your%20organization]%0A[Your%20contact%20information]>Get more info today</a><br />
 <!--	<a class="buttonish" href="organizations">Full List of Organizations that have implemented Green Button</a>  -->
+<!-- footer on page, stored in /_layouts. sub-page footer is in /_includes banner.html -->
       </div>
       
     </div>

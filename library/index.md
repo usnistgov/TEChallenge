@@ -1,30 +1,29 @@
 ---
-title: Green Button Documents Library
+title: Transactive Energy Library
 layout: page
 ---
 #Library
 
 ---
-title: Green Button Documents Library
-layout: page
----
-<h2>Green Button Documents Library</h2>
-<p>The following documents provide background on the Green Button initiative as well as providing Important reference documents for Green Button Implementers</p>
+<h2>Transactive Energy Library</h2>
+<p>The following documents provide background on Transactive Energy</p>
 <section>
-<a href="video/index.html">Videos</a> || <a href="/Presentations/index.html">Presentations</a> || <a href="#technical">Technical</a> || <a href="#testing">Certification</a> || <a href="#espidev">ESPI Development</a>
+
+<a href="/video/index.html">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> || <a href="#TEapproach">TE Approaches</a> || <a href="#standard">Standards</a>
 <hr />
-<a id="technical">&nbsp;</a>
-<h3>Technical Development Library</h3>
+
+<a id="Presentation">&nbsp;</a>
+<h3>TE Presentations</h3>
 <dl>
 {% for document in site.data.documents %}
 
-  {% if document.category == "development" %}
+  {% if document.category == "presentation" %}
   <dt>
     {% if document.html %}
     <a href="{{document.html}}" >
     {{document.name}} (Web Page)</a>
     {% endif %}
-
+	
     {% if document.doc %}
     <a href="{{document.doc}}" >
     {{document.name}} (Document) </a>
@@ -44,12 +43,12 @@ layout: page
 {% endfor %}
 </dl>
 
-<a id="testing">&nbsp;</a>
-<h3>Testing &amp; Certification Library</h3>
+<a id="document">&nbsp;</a>
+<h3>TE Documents</h3>
 <dl>
 {% for document in site.data.documents %}
 
-  {% if document.category == "certification" %}
+  {% if document.category == "document" %}
   <dt>
     {% if document.html %}
     <a href="{{document.html}}" >
@@ -77,11 +76,11 @@ layout: page
 
 
 <a id="espidev">&nbsp;</a>
-<h3>OpenESPI Development</h3>
+<h3>TE Approaches</h3>
 <dl>
 {% for document in site.data.documents %}
 
-  {% if document.category == "espi" %}
+  {% if document.category == "TEapproach" %}
   <dt>
     {% if document.html %}
     <a href="{{document.html}}" >
