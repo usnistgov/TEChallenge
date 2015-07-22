@@ -16,4 +16,5 @@ Share what you can in writing, but if you would rather talk on the phone, then s
 
 P.S. some have asked about IPR concerns. The policy is, "All information and results provided as part of the Challenge will be in the public domain. This does not preclude the use of proprietary techniques or tools to achieve the results."
 
-<a href=mailto:david.holmberg@nist.gov?subject=TEChallenge--more%20info&#038;body=Hi!%0A%0AI’d%20like%20to%20learn%20more%20about%20how%20our%20organization%20can%20participate%20in%20the%20TEChallenge.%20Please%20send%20me%20more%20information?%0A%0AThanks,%0A%0A[Your%20name]%0A[Your%20organization]%0A[Your%20contact%20information]>Get more info today</a><br /> 
+
+<a href="mailto:david.holmberg@nist.gov?subject=TEChallenge--more%20info&body=Hi!%0A%0AI’d%20like%20to%20learn%20more%20about%20how%20our%20organization%20can%20participate%20in%20the%20TEChallenge.%20Please%20send%20me%20more%20information?%0A%0AThanks,%0A%0AYour%20name%0AYour%20organization%0AYour%20contact%20information">Get more info today</a>
