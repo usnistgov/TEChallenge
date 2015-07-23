@@ -8,7 +8,7 @@ layout: page
 
 Modeling and simulation tools and platforms for grid simulations were identified at our TE Challenge Preparatory Workshop.  Some of these tools may be useful for transactive grid simulations (and co-simulations). The table of tools in our Tool Chest is based on input from our workshop attendees. The table provides a short description of each tool based on the owners own claims from the tool website. Those who think a tool might be useful can follow the link to get more information. TE Challenge participants may provide links to other tools and additional information to add to this table. 
 
-Download the Table of Tools
+###>>   [Table of Tools](./toolstable)
 
 ##Data sets
 
@@ -20,9 +20,8 @@ In order to have results that are more comparable between teams, allowing result
 
 References:
 
-Basic scenarios
-
-Detailed scenarios (Project)
+  * Basic scenarios (document posting TBD)
+  * Detailed scenarios (Project info posting TBD)
 
 ##FAQ
 
