@@ -8,7 +8,7 @@ You may sign up as your organization alone, or a team (if you already know who y
 
 The basics are simply telling us who you are (organization and individual contact info) and then what your idea is (or your capabilities that you hope to bring to the table to potentially join a team). There is other information that will be useful to the TE Community, of course, about what each team will be doing. But, to get started, please click on the link below to send us an email so we can get in contact. 
 
-##Click Here >> __<a href="mailto:david.holmberg@nist.gov ?subject=TEChallenge--Sign us up! &body=Hi David,%0A%0AOur organization would like to sign up to participate in the TE Challenge. Here is the basic information. %0A%0AThanks,%0AYour name%0AYour phone%0AYour organization%0AYour idea/capability" >We want to be part of the Challenge!</a>__ <<
+##Click Here >> __<a href="mailto:TEChallenge-info@nist.gov ?subject=TEChallenge--Sign us up! &body=Hi,%0A%0AOur organization would like to register for the TE Challenge. Here is the basic information. %0A%0AThanks,%0AYour name%0AYour phone%0AYour organization%0AYour idea/capability" >We want to be part of the Challenge!</a>__ <<
 
 ____
-Note: joining the TE Challenge is an organization/team thing. We do not assume which individuals will come to the Sept. 10 Kickoff event or any later meeting. [Please go here to let us know who is attending the Kickoff meeting](https://www-s.nist.gov/CRS/conf_disclosure.cfm?&conf_id=8534).
+Note: joining the TE Challenge is an organization/team thing. We do not assume which individuals will come to the Sept. 10 Kickoff event or any later meeting. [Please go here for the Kickoff Event page](http://www.nist.gov/smartgrid/te_challenge_wkshop.cfm) and see the registration link on the right side. This page also provides hotel information. Please let us know if you are coming to the Kickoff!
