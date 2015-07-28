@@ -20,7 +20,7 @@ In order to have results that are more comparable between teams, allowing result
 
 References:
 
-  * Basic scenarios (document posting TBD)
+  * [Basic scenarios](./files/TE_Challenge_Scenarios_20150728.docx)
   * Detailed scenarios (Project info posting TBD)
 
 ##FAQ
