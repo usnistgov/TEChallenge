@@ -4,6 +4,7 @@
 #   Scheme
 ########################################
 #	name: team name
+#	type: government, industry, academia
 #	lead: team leader
 #	email: email of leader
 #	phone: phone of leader
@@ -11,10 +12,18 @@
 #	url: team web site
 #	ideas: team ideas and goals
 #	partners: names of partners
-#	type: government, industry, academia
+#	plans: Describe your modeling plans (what parts of grids/markets, whether co-simulations are involved and how that will be done, grid architecture, etc.):
+#	approach: Describe your TE approach and what is transacted:
+#	scenario: Describe any scenario/use case that you plan to simulate:
+#	validation: Describe validation and metrics that you plan to use:
+#	timeline: Timeline and deliverables:
+#	data: Describe data plans—what data will be used from which data sources:
+#	participants: Who will participate in the TE Challenge events?
+#	other: What else is important to the project/team that hasn’t been covered?
 #########################################
 
 - name: "National Institute of Standards and Technology"
+  type: government
   lead: "Dr. David Holmberg"
   email: "david.holmberg@nist.gov"
   phone: "1(301)975-6450"
@@ -22,4 +31,3 @@
   url: "http://www.nist.gov/smartgrid/techallenge.cfm"
   ideas: "Producing a challenge test bed will facilitate comparison of results and allow team participants to concentrate on elegant approaches to transactive energy and not getting started"
   partners: "Vanderbilt, PNNL"
-  type: government
