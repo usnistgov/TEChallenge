@@ -9,7 +9,7 @@ layout: page
 <p>The following documents provide background on Transactive Energy</p>
 <section>
 
-<a href="/video/index.html">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> || <a href="#TEapproach">TE Approaches</a> || <a href="#standard">Standards</a>
+<a href="#video">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> || <a href="#TEapproach">TE Approaches</a> || <a href="#standard">Standards</a>
 <hr />
 
 <a id="Presentation">&nbsp;</a>
@@ -31,7 +31,7 @@ layout: page
 
     {% if document.pdf %}
     <a href="{{document.pdf}}" >
-    {{document.name}} (.pdf) </a>
+    {{document.name}} (PDF) </a>
     {% endif %}
 
   </dt>

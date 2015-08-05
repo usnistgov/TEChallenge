@@ -10,24 +10,49 @@
 #	phone: phone of leader
 #	capabilities: capabilities of team
 #	url: team web site
-#	ideas: team ideas and goals
+#	ideas: big idea and goals
 #	partners: names of partners
-#	plans: Describe your modeling plans (what parts of grids/markets, whether co-simulations are involved and how that will be done, grid architecture, etc.):
-#	approach: Describe your TE approach and what is transacted:
-#	scenario: Describe any scenario/use case that you plan to simulate:
-#	validation: Describe validation and metrics that you plan to use:
-#	timeline: Timeline and deliverables:
-#	data: Describe data plans—what data will be used from which data sources:
+#	plans: Describe your team plans (if modeling, what parts of grids/markets, whether co-simulations are involved and how that will be done, grid architecture, etc. If application oriented, provide details).
+#	approach: Describe your TE approach and what is transacted (if applicable)
+#	scenario: Describe any scenario/use case that you plan to simulate
+#	validation: Describe validation and metrics that you plan to use
+#	timeline: Timeline and deliverables
+#	data: Describe data plans—what data will be used from which data sources
 #	participants: Who will participate in the TE Challenge events?
 #	other: What else is important to the project/team that hasn’t been covered?
 #########################################
 
-- name: "National Institute of Standards and Technology"
-  type: government
-  lead: "Dr. David Holmberg"
-  email: "david.holmberg@nist.gov"
-  phone: "1(301)975-6450"
-  capabilities: "Maintains Smart Grid Test Bed and performs building controls and optimization research"
-  url: "http://www.nist.gov/smartgrid/techallenge.cfm"
-  ideas: "Producing a challenge test bed will facilitate comparison of results and allow team participants to concentrate on elegant approaches to transactive energy and not getting started"
-  partners: "Vanderbilt, PNNL"
+- name: Project Reference Grid and Scenarios for TE Simulation
+  type: academia mainly
+  lead: TBD
+  email: 
+  phone: 
+  capabilities: modeling and simulation experts
+  url: http://www.nist.gov/smartgrid/techallenge.cfm
+  ideas: develop a reference grid design and interoperability requirements to in turn allow testing of different TE approaches using different simulationtools while producing comparable results for a set of agreed on scenarios.
+  partners: CMU, PNNL, Vanderbilt
+  plans: (1) Project setup (a) develop/agree on a baseline distribution grid topology, (b) develop/agree on baseline scenario and (c) develop/agree on report formats and metrics to evaluate results. (2) Add some transactive approach and run the baseline scenario to demonstrate a working model. (3) Develop set of scenarios which add complexity and exercise the model over a range of grid challenges. (4) Document the project and results. 
+  approach: No TE Approach, rather developing the foundational components. 
+  scenario: Scenarios will be developed as part of the team effort
+  validation: validation and metrics will be agreed on as part of the project
+  timeline: Goal is to move this forward step by step as resources allow over the next year, using TE Challenge meetings as opportunities to meet, as well as virtual team meetings. 
+  data: We will need to find and agree on some reference data sources--both a reference distribution grid as well as input data. 
+  participants: at least one representative from each partner organization
+  other: This project provides a (1) a reference grid design for different research teams to use different tools to model the same scenarios and get comparable results, and (2) a set of scenarios that can be used to exercise different kinds of grid challenges for which TE approaches can be tested. In addition, this project works together with the Interoperable Co-imulation Platform project. 
+- name: Project Interoperable Co-simulation Platform
+  type: academia mainly
+  lead: Vanderbilt
+  email: email of leader
+  phone: phone of leader
+  capabilities: co-simulation platform development
+  url: team web site
+  ideas: Need an “Open Platform” for integrating and coordinating across a diverse suite of modeling and simulation tools, and onduct integrated experiments
+  partners: VU, PNNL, Siemens
+  plans: Develop C2WT, in conjunction with PNNL team to agree on common co-simulation platform for TE. 
+  approach: TBD
+  scenario: This project is about the foundational co-simulation platform, not any specific TE approach or scenario
+  validation: TBD
+  timeline: TBD
+  data: data formats will be standardized for inputs and outputs
+  participants: at least one individual from each partner organization
+  other: 
