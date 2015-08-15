@@ -1,18 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+<!--
+--> 
+{% include elinclude.html %}
 {% include header.html %}
-
-<!-- add DAP header -->
-<script d="_fed_an_js_tag"
-type="text/javascript"
-src=”/static/path/federated­analytics.all.min.js”
-?agency=DOC
-&sub­agency=NIST
-&vcto=6
-&s>  
-</script>
-
 
 </head>
 <body>
@@ -39,5 +31,6 @@ src=”/static/path/federated­analytics.all.min.js”
     </div>
   </footer>
  
+{% include elbottominclude.html %}
 </body>
 </html>
