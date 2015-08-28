@@ -47,7 +47,7 @@
   capabilities: co-simulation platform development
   url: team web site
   ideas: Need an “Open Platform” for integrating and coordinating across a diverse suite of modeling and simulation tools, and onduct integrated experiments
-  partners: VU, PNNL, Siemens
+  partners: VU, PNNL
   plans: Develop C2WT, in conjunction with PNNL team to agree on common co-simulation platform for TE. 
   approach: TBD
   scenario: This project is about the foundational co-simulation platform, not any specific TE approach or scenario

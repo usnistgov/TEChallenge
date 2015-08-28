@@ -1,4 +1,4 @@
-# This file outlines all of the partners listed on the site. Below is an example item:
+# This file outlines all of the participants listed on the site. Below is an example item:
   
 # - name: "Name of Partner"
 #   url: "http://partner.com"
@@ -20,3 +20,27 @@
 - name: "Carnegie Mellon University"
   url: ""
   type: university
+- name: "CleanSpark"
+  url: "http://www.cleanspark.com/"
+  type: company
+- name: "MITRE"
+  url: "http://www.mitre.org/"
+  type: company
+- name: "ABB"
+  url: ""
+  type: company
+- name: "TEMIX, Inc"
+  url: ""
+  type: company
+- name: "EPRI"
+  url: ""
+  type: company
+- name: "General Microgrids"
+  url: ""
+  type: company
+- name: "MaCT"
+  url: ""
+  type: company  
+- name: "Energy Mashup Lab"
+  url: "http://www.theenergymashuplab.org/"
+  type: company

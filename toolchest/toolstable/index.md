@@ -57,6 +57,8 @@ layout: page
 |
 | U Wisc [TRNSYS](http://sel.me.wisc.edu/trnsys/)   | Building simulation. TRNSYS is a transient systems simulation program with a modular structure. The TRNSYS library includes components found in thermal and electrical energy systems, and handles input of weather data or other time-dependent forcing functions and output of simulation results.
 |
+| Carnegie Mellon U [DyMonDS](http://dimacs.rutgers.edu/Workshops/Infrastructure/Slides/Ilic.pdf) | Dynamic Monitoring and Decision Systems (DyMonDS) -- a grid simulation framework that includes the dynamic behavior of electricity (inductance, resistance, capacitance) leading to high-fidelity modelling of both real and reactive power.
+|
 | NIST [HVACSIM+](http://fire.nist.gov/bfrlpubs/build08/PDF/b08030.pdf)| HVAC dynamic simulation (NIST)
 |
 | DOE [SPIDERS](http://energy.sandia.gov/infrastructure-security/energy_surety/spiders/)| Microgrid simulation
