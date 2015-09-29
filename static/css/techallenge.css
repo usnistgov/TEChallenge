@@ -1,0 +1,15 @@
+
+table#teams1{
+	width:100%;
+	font-size: 0.875em;
+	line-height: 100%;
+}
+table#teams1 tr:nth-child(even) {
+    background-color: #fff;
+}
+table#teams1 tr:nth-child(odd) {
+    background-color: #eee;
+}
+table#teams1 td.desc{
+	line-height: 90%;
+}
