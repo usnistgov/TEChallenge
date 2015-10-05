@@ -10,8 +10,10 @@
 #	phone: phone of leader
 #	capabilities: capabilities of team
 #	url: team web site
-#	ideas: big idea and goals
-#	partners: names of partners
+#	ideas: list of the ideas
+# - title: title of the big idea and goal
+#	partners: list of the partners
+# - name: name of partners
 #	plans: Describe your team plans (if modeling, what parts of grids/markets, whether co-simulations are involved and how that will be done, grid architecture, etc. If application oriented, provide details).
 #	approach: Describe your TE approach and what is transacted (if applicable)
 #	scenario: Describe any scenario/use case that you plan to simulate
@@ -24,61 +26,108 @@
 # imageUrl: url of the image that represents the team
 #########################################
 
-- name: Project Reference Grid and Scenarios for TE Simulation
-  type: academia mainly
-  lead: TBD
-  email: 
-  phone: 
-  capabilities: modeling and simulation experts
+# team1
+- name: Business/Regulatory Models
+  type: 
+  lead: EEI (tentative)
   url: "./team1"
-  ideas: develop a reference grid design and interoperability requirements to in turn allow testing of different TE approaches using different simulationtools while producing comparable results for a set of agreed on scenarios.
+  ideas:
+  - title: Define fundamental business/regulatory model types
+  - title: Characterize/define interfaces among the participants (physical/financial)
+  - title: Identify legislative regulator features applicable to each model
   partners:
-  - name: CMU
+  - name: EEI
+  - name: Bluewave Resources
+  - name: Pepco Holdings
+  - name: CGI
+  - name: Wedin Communications
   - name: PNNL
-  - name: Vanderbilt
-  plans: (1) Project setup (a) develop/agree on a baseline distribution grid topology, (b) develop/agree on baseline scenario and (c) develop/agree on report formats and metrics to evaluate results. (2) Add some transactive approach and run the baseline scenario to demonstrate a working model. (3) Develop set of scenarios which add complexity and exercise the model over a range of grid challenges. (4) Document the project and results. 
-  approach: No TE Approach, rather developing the foundational components. 
-  scenario: Scenarios will be developed as part of the team effort
-  validation: validation and metrics will be agreed on as part of the project
-  timeline: Goal is to move this forward step by step as resources allow over the next year, using TE Challenge meetings as opportunities to meet, as well as virtual team meetings. 
-  data: We will need to find and agree on some reference data sources--both a reference distribution grid as well as input data. 
-  participants: at least one representative from each partner organization
-  other: This project provides a (1) a reference grid design for different research teams to use different tools to model the same scenarios and get comparable results, and (2) a set of scenarios that can be used to exercise different kinds of grid challenges for which TE approaches can be tested. In addition, this project works together with the Interoperable Co-imulation Platform project. 
-  worksheetUrl: "./team1/tec-team1.pdf" 
+  - name: NIST
+  - name: TeMix, Inc.
+  - name: Robert Hershey
+  worksheetUrl: "./team1/tec-team.pdf" 
   imageUrl: "/assets/mstile-144x144.png"
-- name: Project Interoperable Co-simulation Platform
-  type: academia mainly
-  lead: Vanderbilt
-  email: email of leader
-  phone: phone of leader
-  capabilities: co-simulation platform development
-  url: team web site
-  ideas: Need an “Open Platform” for integrating and coordinating across a diverse suite of modeling and simulation tools, and onduct integrated experiments
+# team2
+- name: Reference Grids TE Scenarios 'Well Posed Problems'
+  type: 
+  lead: Neutral standards based party, who could validate the output
+  url: "./team2"
+  ideas:
+  - title: Topologies
+  - title: Identities and capacities of elements
+  - title: Keep it simple from beginning - One complexity at a time
   partners:
-  plans: Develop C2WT, in conjunction with PNNL team to agree on common co-simulation platform for TE. 
-  approach: TBD
-  scenario: This project is about the foundational co-simulation platform, not any specific TE approach or scenario
-  validation: TBD
-  timeline: TBD
-  data: data formats will be standardized for inputs and outputs
-  participants: at least one individual from each partner organization
-  other: 
-  worksheetUrl: 
-- name: Project Interoperable Co-simulation Platform
-  type: academia mainly
-  lead: Vanderbilt
-  email: email of leader
-  phone: phone of leader
-  capabilities: co-simulation platform development
-  url: team web site
-  ideas: Need an “Open Platform” for integrating and coordinating across a diverse suite of modeling and simulation tools, and onduct integrated experiments
+  - name: Navigant
+  - name: NEMA
+  - name: CMU
+  - name: MITRE
+  - name: ABB
+  worksheetUrl: "./team2/tec-team.pdf" 
+  imageUrl: "/assets/mstile-144x144.png"
+# team3
+- name: Demonstration of Transactive Control for Energy Management in Microgrid Systems
+  type: 
+  lead: Cleanspark
+  url: "./team3"
+  ideas:
+  - title: Scalability – Account for devices inside of building to full external market
+  - title: Theoretical grounding – transactive
+  - title: Graceful degradation
   partners:
-  plans: Develop C2WT, in conjunction with PNNL team to agree on common co-simulation platform for TE. 
-  approach: TBD
-  scenario: This project is about the foundational co-simulation platform, not any specific TE approach or scenario
-  validation: TBD
-  timeline: TBD
-  data: data formats will be standardized for inputs and outputs
-  participants: at least one individual from each partner organization
-  other: 
-  worksheetUrl: 
+  - name: Allen Jones
+  - name: Jorge Camacho
+  - name: IEEE
+  - name: MITRE
+  - name: Univ. of Oklahoma
+  - name: Energy Mashup Lab
+  - name: General Microgrids
+  - name: Tata Consultancy
+  - name: MIT
+  worksheetUrl: "./team3/tec-team.pdf" 
+  imageUrl: "/assets/mstile-144x144.png"
+# team4
+- name: Transactive Energy Interoperations and Abstract Interaction
+  type: 
+  lead: TBD
+  url: "./team4"
+  ideas:
+  - title: Align what is simulated with real TE message exchanges by finding common meanings across environments (e.g., double auction markets load price iterative exchange including a product definition for volt/var specifics, CIM, Energy?? Intel ?, TeMIX, Power ???, etc., maybe ICCP
+  partners:
+  - name: Alliander
+  - name: Energy Mashup Lab
+  - name: Navigant
+  - name: MACT
+  - name: TeMix, Inc
+  worksheetUrl: "./team4/tec-team.pdf" 
+  imageUrl: "/assets/mstile-144x144.png"
+# team5
+- name: Co-Simulation Platforms
+  type: 
+  lead: TBD
+  url: "./team5"
+  ideas:
+  - title: Create a system of systems; co-simulation of different nodes/planets revolving around central ‘sun’ as shown in Figure 1
+  - title: Could have multiple simulation platforms (not just a single central one)
+  - title: Nodes can communicate with each other and also with the central ‘sun’
+  - title: Include ‘wrappers’ behind each node (how to control clock, data exchange, mapping, etc.)
+  partners:
+  - name: Vanderbilt
+  - name: PNNL
+  - name: CMU
+  - name: IBM
+  - name: DOE
+  worksheetUrl: "./team5/tec-team.pdf" 
+  imageUrl: "/assets/mstile-144x144.png"
+# team6
+- name: Transition from Centralized to Decentralized
+  type: 
+  lead: TBD
+  url: "./team6"
+  ideas:
+  - title: Determine level of aggregation needed to operationalize TE
+  - title: Feeder level in PNWSGDF
+  - title: Appliance level in Olympia Peninsula
+  partners:
+  - name: Warren Wang
+  worksheetUrl: "./team6/tec-team.pdf" 
+  imageUrl: "/assets/mstile-144x144.png"

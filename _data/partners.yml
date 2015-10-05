@@ -44,3 +44,42 @@
 - name: "Energy Mashup Lab"
   url: "http://www.theenergymashuplab.org/"
   type: company
+- name: CGI
+  url:
+  type: 
+- name: Edison Electric Institute
+  url:
+  type: 
+- name: Navigant
+  url: 
+  type:
+- name: Prometheus Computing
+  url: 
+  type:
+- name: IEEE
+  url: 
+  type:
+- name: Alliander (NL)
+  url: 
+  type:
+- name: NEMA 
+  url: 
+  type:
+- name: BLUEWAVE Resources, LLC 
+  url: 
+  type:
+- name: MIT 
+  url: 
+  type:
+- name: OU
+  url: 
+  type:
+- name: PEPCO Holdings, Inc. 
+  url: 
+  type:
+- name: Tata Consulting Services 
+  url: 
+  type:
+- name: IBM Research  
+  url: 
+  type:

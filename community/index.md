@@ -6,9 +6,7 @@ layout: page
 
 ## Project Teams
 Information regarding the teams formed during the September kickoff is posted here. Organizations that have registered to participate in the Challenge
-may or may not be committed (yet) to a team. Some organizations might participate in more than one team. Many teams will come 
-together at the Kickoff meeting. Some teams will be formed after the Kickoff as other organizations hear about the Challenge 
-or some team and want to join. Collaborators are welcome to join any team.  
+may or may not be committed (yet) to a team. Organizations may participate in more than one team. Collaborators are welcome to join any team.  
  
 ###Current teams:
 
@@ -19,10 +17,14 @@ or some team and want to join. Collaborators are welcome to join any team.
 		<td style="width:25%;text-align:center;">
 			<img class="logo" src="{{ site.baseurl }}/{{ teams.imageUrl }}" alt="TE Challenge">
 		</td>
-		<td class="desc" style="width:50%;padding:5px;">
+		<td class="desc" style="width:50%;padding:5px;vertical-align:top;">
 			<b>{{teams.name}}</b>
 			<br/><br/>
-			{{teams.plans}}
+			<ul>
+			{% for ideas in teams.ideas %}
+				<li>{{ideas.title}}</li>
+			{% endfor %}
+			</ul>
 			<br/><br/>
 			<b>What's next:</b>
 			<ul style="list-style-type: none;">
