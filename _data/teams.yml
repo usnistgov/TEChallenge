@@ -5,34 +5,21 @@
 ########################################
 #	team[x]: team id
 #   name: team name
-#	type: government, industry, academia
 #	lead: team leader
-#	email: email of leader
-#	phone: phone of leader
-#	capabilities: capabilities of team
 #	url: team web site
 #	ideas: list of the ideas
-# - title: title of the big idea and goal
+#	 - title: title of the big idea and goal
 #	partners: list of the partners
-# - name: name of partners
-#	plans: Describe your team plans (if modeling, what parts of grids/markets, whether co-simulations are involved and how that will be done, grid architecture, etc. If application oriented, provide details).
-#	approach: Describe your TE approach and what is transacted (if applicable)
-#	scenario: Describe any scenario/use case that you plan to simulate
-#	validation: Describe validation and metrics that you plan to use
-#	timeline: Timeline and deliverables
-#	data: Describe data plans—what data will be used from which data sources
-#	participants: Who will participate in the TE Challenge events?
-#	other: What else is important to the project/team that hasn’t been covered?
-# worksheetUrl: url of the team worksheet file
-# imageUrl: url of the image that represents the team
+#	 - name: name of partners
+# 	worksheetUrl: url of the team worksheet file
+# 	imageUrl: url of the image that represents the team
 #########################################
 
 # team1
 team1:
     name: Business/Regulatory Models
-    type: 
-    lead: EEI (tentative)
-    url: "./team1"
+    lead: John Caldwell, EEI
+    url: "https://groups.google.com/forum/#!forum/smart-grid-business-and-regulatory-models-group"
     ideas:
     - title: Define fundamental business/regulatory model types
     - title: Characterize/define interfaces among the participants (physical/financial)
@@ -40,101 +27,78 @@ team1:
     partners:
     - name: EEI
     - name: Bluewave Resources
-    - name: Pepco Holdings
+    - name: ICFI
     - name: CGI
-    - name: Wedin Communications
     - name: PNNL
     - name: NIST
     - name: TeMix, Inc.
     - name: Robert Hershey
-    worksheetUrl: "./team1/tec-team.pdf" 
+    worksheetUrl: "./team1/Team Ref Bus Reg Models.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team2
 team2:
-    name: Reference Grids TE Scenarios 'Well Posed Problems'
-    type: 
-    lead: Neutral standards based party, who could validate the output
-    url: "./team2"
+    name: Reference Grid and Scenarios for TE Simulation
+    lead: Khaled Masri, NEMA
+    url: "https://groups.google.com/d/forum/reference-grids-te-scenarios"
     ideas:
-    - title: Topologies
-    - title: Identities and capacities of elements
+    - title: Develop a reference grid design and interoperability requirements to in turn allow testing of different TE approaches using different simulation tools while producing comparable results for a set of agreed on scenarios.
     - title: Keep it simple from beginning - One complexity at a time
     partners:
     - name: Navigant
     - name: NEMA
     - name: CMU
     - name: MITRE
-    - name: ABB
-    worksheetUrl: "./team2/tec-team.pdf" 
+    worksheetUrl: "./team2/Team Ref Grid Scenarios.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team3
 team3:
-    name: Demonstration of Transactive Control for Energy Management in Microgrid Systems
-    type: 
-    lead: Cleanspark
+    name: TE Demo for Microgrid Energy Management
+    lead: Jennifer Worrall, Cleanspark
     url: "./team3"
     ideas:
     - title: Scalability – Account for devices inside of building to full external market
     - title: Theoretical grounding – transactive
     - title: Graceful degradation
     partners:
-    - name: Allen Jones
-    - name: Jorge Camacho
-    - name: IEEE
-    - name: MITRE
+    - name: Cleanspark
+    - name: TeMix
     - name: Univ. of Oklahoma
     - name: Energy Mashup Lab
     - name: General Microgrids
     - name: Tata Consultancy
     - name: MIT
-    worksheetUrl: "./team3/tec-team.pdf" 
+    - name: ABB
+    - name: Navigant
+    - name: Businovation
+    worksheetUrl: "./team3/Team Microgrid TE demos.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team4
 team4:
-    name: Transactive Energy Interoperations and Abstract Interaction
-    type: 
-    lead: TBD
+    name:  TE Interoperations and Abstract Interaction
+    lead: Shawn Chandler, William Cox	
     url: "./team4"
     ideas:
-    - title: Align what is simulated with real TE message exchanges by finding common meanings across environments (e.g., double auction markets load price iterative exchange including a product definition for volt/var specifics, CIM, Energy?? Intel ?, TeMIX, Power ???, etc., maybe ICCP
+    - title: Align what is simulated with real TE message exchanges by finding common meanings across environments
     partners:
     - name: Alliander
     - name: Energy Mashup Lab
     - name: Navigant
     - name: MACT
-    - name: TeMix, Inc
-    worksheetUrl: "./team4/tec-team.pdf" 
+    - name: TeMix
+    worksheetUrl: "./team4/Team TE Interop Abstract Interax.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team5
 team5:
     name: Co-Simulation Platforms
-    type: 
     lead: TBD
     url: "./team5"
     ideas:
-    - title: Create a system of systems; co-simulation of different nodes/planets revolving around central ‘sun’ as shown in Figure 1
-    - title: Could have multiple simulation platforms (not just a single central one)
-    - title: Nodes can communicate with each other and also with the central ‘sun’
-    - title: Include ‘wrappers’ behind each node (how to control clock, data exchange, mapping, etc.)
+    - title: Create an “Open Platform” for integrating and coordinating across a diverse suite of modeling and simulation tools, and conduct integrated experiments.
     partners:
     - name: Vanderbilt
     - name: PNNL
     - name: CMU
     - name: IBM
     - name: DOE
-    worksheetUrl: "./team5/tec-team.pdf" 
-    imageUrl: "/assets/mstile-144x144.png"
-# team6
-team6:
-    name: Transition from Centralized to Decentralized
-    type: 
-    lead: TBD
-    url: "./team6"
-    ideas:
-    - title: Determine level of aggregation needed to operationalize TE
-    - title: Feeder level in PNWSGDF
-    - title: Appliance level in Olympia Peninsula
-    partners:
-    - name: Warren Wang
-    worksheetUrl: "./team6/tec-team.pdf" 
+    worksheetUrl: "./team5/Team Co-sim Platforms.pdf" 
     imageUrl: "/assets/mstile-144x144.png"

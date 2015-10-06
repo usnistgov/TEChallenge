@@ -1,85 +1,134 @@
 # This file outlines all of the participants listed on the site. Below is an example item:
   
 # - name: "Name of Partner"
-#   url: "http://partner.com"
+#   url: "http://partner.com" = link to a pdf introduction to the org's TE Challenge interests and capabilities
 #   type: utility, company, university OR government
+#	SummaryofInterest: main interest in participating in the Challenge
+#	introdoc-url: link to intro pdf file in the S3 partner file folder
 
 
 - name: "NIST"
   url: "http://www.nist.gov"
   type: government
+  SummaryofInterest: We want to see TE modeling and simulation tools advance, collaboration increase, and understanding of TE approaches grow.
+  introdoc-url: "http://www.nist.gov"
 - name: "DOE GWAC"
   url: "http://www.gridwiseac.org/about/transactive_energy.aspx"
   type: government
+  SummaryofInterest: Leading the way through TE conferences and white papers to understand the value of TE. 
+  introdoc-url: ""
 - name: "PNNL"
   url: ""
   type: government
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "Vanderbilt University"
   url: ""
   type: university
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "Carnegie Mellon University"
   url: ""
   type: university
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "CleanSpark"
   url: "http://www.cleanspark.com/"
   type: company
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "MITRE"
   url: "http://www.mitre.org/"
   type: company
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "ABB"
   url: ""
   type: company
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "TEMIX, Inc"
   url: ""
   type: company
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "EPRI"
   url: ""
   type: company
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "General Microgrids"
   url: ""
   type: company
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "MaCT"
   url: ""
   type: company  
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "Energy Mashup Lab"
   url: "http://www.theenergymashuplab.org/"
   type: company
-- name: CGI
-  url:
-  type: 
-- name: Edison Electric Institute
-  url:
-  type: 
-- name: Navigant
-  url: 
-  type:
-- name: Prometheus Computing
-  url: 
-  type:
-- name: IEEE
-  url: 
-  type:
-- name: Alliander (NL)
-  url: 
-  type:
-- name: NEMA 
-  url: 
-  type:
-- name: BLUEWAVE Resources, LLC 
-  url: 
-  type:
-- name: MIT 
-  url: 
-  type:
-- name: OU
-  url: 
-  type:
-- name: PEPCO Holdings, Inc. 
-  url: 
-  type:
-- name: Tata Consulting Services 
-  url: 
-  type:
-- name: IBM Research  
-  url: 
-  type:
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "NEPLAN"
+  url: "http://support.neplan.ch/html/e/e_home.htm"
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "TATA Consulting Services"
+  url: "http://www.tcs.com/Pages/default.aspx"
+  type: company
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "Alliander"
+  url: "https://www.alliander.com/en"
+  type: company  
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "Oklahoma University"
+  url: ""
+  type: university  
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "MIT"
+  url: ""
+  type: university 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "Navigant"
+  url: ""
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "NEMA"
+  url: ""
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "Pepco Holdings, Inc."
+  url: ""
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "IBM Research"
+  url: ""
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "Bluewave Resources"
+  url: ""
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "Edison Electric Institute"
+  url: ""
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "CGI"
+  url: ""
+  type: company 
+  SummaryofInterest: 
+  introdoc-url: ""

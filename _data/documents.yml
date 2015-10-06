@@ -14,6 +14,10 @@
   description: "The collected presentations from the plenary of the March, 2015 TE Challenge Preparatory Workshop"
   category: presentation
   html: "http://www.nist.gov/el/building_environment/mechsys/te-challenge-preparatory-workshop.cfm"
+- name: "TE Challenge Kickoff Meeting presentations"
+  description: "Presentations from the morning plenary of the Sep 10, 2015 TE Challenge Kickoff Meeting"
+  category: presentation
+  html: "http://www.nist.gov/smartgrid/te_challenge_wkshop.cfm"
 - name: "GWAC Transactive Energy Framework 1.0"
   description: "The DOE Gridwise Architectural Council's Transactive Energy Framework document, Jan 2015"
   category: document
