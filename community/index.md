@@ -10,14 +10,14 @@ may or may not be committed (yet) to a team. Organizations may participate in mo
  
 ###Current teams:
 
-<table id="teams1" style="width:100%">
+<table id="teams" style="width:100%">
 	{% for teams in site.data.teams %}
 	<tr><td colspan="3"><br/></td></tr>
 	<tr>
-		<td style="width:25%;text-align:center;">
+		<td class="team" style="width:25%;text-align:center;">
 			<img class="logo" src="{{ site.baseurl }}/{{ teams.imageUrl }}" alt="TE Challenge">
 		</td>
-		<td class="desc" style="width:50%;padding:5px;vertical-align:top;">
+		<td class="desc,team" style="width:50%;padding:5px;vertical-align:top;">
 			<b>{{teams.name}}</b>
 			<br/><br/>
 			<ul>
@@ -32,7 +32,7 @@ may or may not be committed (yet) to a team. Organizations may participate in mo
 				<li>Visit the project page <a href="{{teams.url}}">HERE</a></li>
 			</ul>
 		</td> 
-		<td style="width:25%;text-align:right;">
+		<td class="team" style="width:25%;text-align:right;">
 			<b>lead</b>
 			<br/>
 			{{teams.lead}}
@@ -59,23 +59,12 @@ may or may not be committed (yet) to a team. Organizations may participate in mo
  * Detailed modeling scenarios for TE
  * Economic Models for TE
  * Transactive Controls Approach and demonstration
+ * Microgrids/Microgrid simulations – TeMIX/Microgrid applications
+ * Transition from centralized to decentralized energy simulation
+ * Cost management/business models/TE tariffs
+ * Co-simulation platforms / simulate independent systems
+ * Reference grids and scenarios
+ * Simulation architecture/Architecture/frameworks (PNNL, EEI, DSO, etc.) and validation and verification of TE algorithms
+ * TE interoperability
+ * Power matcher/vehicles, etc.
 
-##Want to join one of these efforts?
-
-Here is the process to do it:
-
-1. step 1
-2. step 2
-3. step 3
-
-[Let us know](../join)
-
-##Want to start a new project/team?
-
-Here is the process to do it:
-
-1. step 1
-2. step 2
-3. step 3
-
-[Let us know](../join)

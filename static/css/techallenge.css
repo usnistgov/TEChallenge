@@ -1,15 +1,21 @@
 
-table#teams1{
+table#teams{
 	width:100%;
 	font-size: 0.875em;
 	line-height: 100%;
 }
-table#teams1 tr:nth-child(even) {
+table#teams tr:nth-child(even) {
     background-color: #fff;
 }
-table#teams1 tr:nth-child(odd) {
+table#teams tr:nth-child(odd) {
     background-color: #eee;
 }
-table#teams1 td.desc{
-	line-height: 90%;
+table#teams td.desc{
+	line-height: 95%;
+}
+table#teams td.team{
+	padding:10px;
+}
+p{
+	text-align:justify;
 }

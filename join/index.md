@@ -10,5 +10,3 @@ The basics are simply telling us who you are (organization and individual contac
 
 ##Click Here >> __<a href="mailto:TEChallenge-info@nist.gov ?subject=TEChallenge--Sign us up! &body=Hi,%0A%0AOur organization would like to register for the TE Challenge. Here is the basic information. %0A%0AThanks,%0AYour name%0AYour phone%0AYour organization%0AYour idea/capability" >We want to be part of the Challenge!</a>__ <<
 
-____
-Note: joining the TE Challenge is an organization/team thing. We do not assume which individuals will come to the Sept. 10 Kickoff event or any later meeting. [Please go here for the Kickoff Event page](http://www.nist.gov/smartgrid/te_challenge_wkshop.cfm) and see the registration link on the right side. This page also provides hotel information. Please let us know if you are coming to the Kickoff!
