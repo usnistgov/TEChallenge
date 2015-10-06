@@ -3,7 +3,8 @@
 ########################################
 #   Scheme
 ########################################
-#	name: team name
+#	team[x]: team id
+#   name: team name
 #	type: government, industry, academia
 #	lead: team leader
 #	email: email of leader
@@ -27,107 +28,113 @@
 #########################################
 
 # team1
-- name: Business/Regulatory Models
-  type: 
-  lead: EEI (tentative)
-  url: "./team1"
-  ideas:
-  - title: Define fundamental business/regulatory model types
-  - title: Characterize/define interfaces among the participants (physical/financial)
-  - title: Identify legislative regulator features applicable to each model
-  partners:
-  - name: EEI
-  - name: Bluewave Resources
-  - name: Pepco Holdings
-  - name: CGI
-  - name: Wedin Communications
-  - name: PNNL
-  - name: NIST
-  - name: TeMix, Inc.
-  - name: Robert Hershey
-  worksheetUrl: "./team1/tec-team.pdf" 
-  imageUrl: "/assets/mstile-144x144.png"
+team1:
+    name: Business/Regulatory Models
+    type: 
+    lead: EEI (tentative)
+    url: "./team1"
+    ideas:
+    - title: Define fundamental business/regulatory model types
+    - title: Characterize/define interfaces among the participants (physical/financial)
+    - title: Identify legislative regulator features applicable to each model
+    partners:
+    - name: EEI
+    - name: Bluewave Resources
+    - name: Pepco Holdings
+    - name: CGI
+    - name: Wedin Communications
+    - name: PNNL
+    - name: NIST
+    - name: TeMix, Inc.
+    - name: Robert Hershey
+    worksheetUrl: "./team1/tec-team.pdf" 
+    imageUrl: "/assets/mstile-144x144.png"
 # team2
-- name: Reference Grids TE Scenarios 'Well Posed Problems'
-  type: 
-  lead: Neutral standards based party, who could validate the output
-  url: "./team2"
-  ideas:
-  - title: Topologies
-  - title: Identities and capacities of elements
-  - title: Keep it simple from beginning - One complexity at a time
-  partners:
-  - name: Navigant
-  - name: NEMA
-  - name: CMU
-  - name: MITRE
-  - name: ABB
-  worksheetUrl: "./team2/tec-team.pdf" 
-  imageUrl: "/assets/mstile-144x144.png"
+team2:
+    name: Reference Grids TE Scenarios 'Well Posed Problems'
+    type: 
+    lead: Neutral standards based party, who could validate the output
+    url: "./team2"
+    ideas:
+    - title: Topologies
+    - title: Identities and capacities of elements
+    - title: Keep it simple from beginning - One complexity at a time
+    partners:
+    - name: Navigant
+    - name: NEMA
+    - name: CMU
+    - name: MITRE
+    - name: ABB
+    worksheetUrl: "./team2/tec-team.pdf" 
+    imageUrl: "/assets/mstile-144x144.png"
 # team3
-- name: Demonstration of Transactive Control for Energy Management in Microgrid Systems
-  type: 
-  lead: Cleanspark
-  url: "./team3"
-  ideas:
-  - title: Scalability – Account for devices inside of building to full external market
-  - title: Theoretical grounding – transactive
-  - title: Graceful degradation
-  partners:
-  - name: Allen Jones
-  - name: Jorge Camacho
-  - name: IEEE
-  - name: MITRE
-  - name: Univ. of Oklahoma
-  - name: Energy Mashup Lab
-  - name: General Microgrids
-  - name: Tata Consultancy
-  - name: MIT
-  worksheetUrl: "./team3/tec-team.pdf" 
-  imageUrl: "/assets/mstile-144x144.png"
+team3:
+    name: Demonstration of Transactive Control for Energy Management in Microgrid Systems
+    type: 
+    lead: Cleanspark
+    url: "./team3"
+    ideas:
+    - title: Scalability – Account for devices inside of building to full external market
+    - title: Theoretical grounding – transactive
+    - title: Graceful degradation
+    partners:
+    - name: Allen Jones
+    - name: Jorge Camacho
+    - name: IEEE
+    - name: MITRE
+    - name: Univ. of Oklahoma
+    - name: Energy Mashup Lab
+    - name: General Microgrids
+    - name: Tata Consultancy
+    - name: MIT
+    worksheetUrl: "./team3/tec-team.pdf" 
+    imageUrl: "/assets/mstile-144x144.png"
 # team4
-- name: Transactive Energy Interoperations and Abstract Interaction
-  type: 
-  lead: TBD
-  url: "./team4"
-  ideas:
-  - title: Align what is simulated with real TE message exchanges by finding common meanings across environments (e.g., double auction markets load price iterative exchange including a product definition for volt/var specifics, CIM, Energy?? Intel ?, TeMIX, Power ???, etc., maybe ICCP
-  partners:
-  - name: Alliander
-  - name: Energy Mashup Lab
-  - name: Navigant
-  - name: MACT
-  - name: TeMix, Inc
-  worksheetUrl: "./team4/tec-team.pdf" 
-  imageUrl: "/assets/mstile-144x144.png"
+team4:
+    name: Transactive Energy Interoperations and Abstract Interaction
+    type: 
+    lead: TBD
+    url: "./team4"
+    ideas:
+    - title: Align what is simulated with real TE message exchanges by finding common meanings across environments (e.g., double auction markets load price iterative exchange including a product definition for volt/var specifics, CIM, Energy?? Intel ?, TeMIX, Power ???, etc., maybe ICCP
+    partners:
+    - name: Alliander
+    - name: Energy Mashup Lab
+    - name: Navigant
+    - name: MACT
+    - name: TeMix, Inc
+    worksheetUrl: "./team4/tec-team.pdf" 
+    imageUrl: "/assets/mstile-144x144.png"
 # team5
-- name: Co-Simulation Platforms
-  type: 
-  lead: TBD
-  url: "./team5"
-  ideas:
-  - title: Create a system of systems; co-simulation of different nodes/planets revolving around central ‘sun’ as shown in Figure 1
-  - title: Could have multiple simulation platforms (not just a single central one)
-  - title: Nodes can communicate with each other and also with the central ‘sun’
-  - title: Include ‘wrappers’ behind each node (how to control clock, data exchange, mapping, etc.)
-  partners:
-  - name: Vanderbilt
-  - name: PNNL
-  - name: CMU
-  - name: IBM
-  - name: DOE
-  worksheetUrl: "./team5/tec-team.pdf" 
-  imageUrl: "/assets/mstile-144x144.png"
+team5:
+    name: Co-Simulation Platforms
+    type: 
+    lead: TBD
+    url: "./team5"
+    ideas:
+    - title: Create a system of systems; co-simulation of different nodes/planets revolving around central ‘sun’ as shown in Figure 1
+    - title: Could have multiple simulation platforms (not just a single central one)
+    - title: Nodes can communicate with each other and also with the central ‘sun’
+    - title: Include ‘wrappers’ behind each node (how to control clock, data exchange, mapping, etc.)
+    partners:
+    - name: Vanderbilt
+    - name: PNNL
+    - name: CMU
+    - name: IBM
+    - name: DOE
+    worksheetUrl: "./team5/tec-team.pdf" 
+    imageUrl: "/assets/mstile-144x144.png"
 # team6
-- name: Transition from Centralized to Decentralized
-  type: 
-  lead: TBD
-  url: "./team6"
-  ideas:
-  - title: Determine level of aggregation needed to operationalize TE
-  - title: Feeder level in PNWSGDF
-  - title: Appliance level in Olympia Peninsula
-  partners:
-  - name: Warren Wang
-  worksheetUrl: "./team6/tec-team.pdf" 
-  imageUrl: "/assets/mstile-144x144.png"
+team6:
+    name: Transition from Centralized to Decentralized
+    type: 
+    lead: TBD
+    url: "./team6"
+    ideas:
+    - title: Determine level of aggregation needed to operationalize TE
+    - title: Feeder level in PNWSGDF
+    - title: Appliance level in Olympia Peninsula
+    partners:
+    - name: Warren Wang
+    worksheetUrl: "./team6/tec-team.pdf" 
+    imageUrl: "/assets/mstile-144x144.png"

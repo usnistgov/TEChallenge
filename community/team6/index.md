@@ -1,7 +1,20 @@
 ---
-title: TE Challenge Team 6
+teamId: team6
 layout: page
 ---
-#Team 6
 
-Text here
+{% assign team = site.data.teams[page.teamId] %}
+#Team - {{ team.name }}
+
+<br/><br/>
+<ul>
+{% for ideas in team.ideas %}
+	<li>{{ideas.title}}</li>
+{% endfor %}
+</ul>
+<br/><br/>
+
+###Team Collaboration
+Meeting time:
+
+Call in information:

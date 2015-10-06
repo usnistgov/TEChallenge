@@ -15,31 +15,31 @@ may or may not be committed (yet) to a team. Organizations may participate in mo
 	<tr><td colspan="3"><br/></td></tr>
 	<tr>
 		<td class="team" style="width:25%;text-align:center;">
-			<img class="logo" src="{{ site.baseurl }}/{{ teams.imageUrl }}" alt="TE Challenge">
+			<img class="logo" src="{{ site.baseurl }}/{{ teams[1].imageUrl }}" alt="TE Challenge">
 		</td>
 		<td class="desc,team" style="width:50%;padding:5px;vertical-align:top;">
-			<b>{{teams.name}}</b>
+			<b>{{teams[1].name}}</b>
 			<br/><br/>
 			<ul>
-			{% for ideas in teams.ideas %}
+			{% for ideas in teams[1].ideas %}
 				<li>{{ideas.title}}</li>
 			{% endfor %}
 			</ul>
 			<br/><br/>
 			<b>What's next:</b>
 			<ul style="list-style-type: none;">
-				<li>Download project workseet <a href="{{teams.worksheetUrl}}">HERE</a></li>
-				<li>Visit the project page <a href="{{teams.url}}">HERE</a></li>
+				<li>Download project workseet <a href="{{teams[1].worksheetUrl}}">HERE</a></li>
+				<li>Visit the project page <a href="{{teams[1].url}}">HERE</a></li>
 			</ul>
 		</td> 
 		<td class="team" style="width:25%;text-align:right;">
 			<b>lead</b>
 			<br/>
-			{{teams.lead}}
+			{{teams[1].lead}}
 			<br/><br/>
 			<b>partners</b>
 			<br/>
-			{% for partners in teams.partners %}
+			{% for partners in teams[1].partners %}
 				{{partners.name}}<br/>
 			{% endfor %}
 			<br/><br/>
