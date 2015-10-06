@@ -29,7 +29,7 @@ may or may not be committed (yet) to a team. Organizations may participate in mo
 			<b>What's next:</b>
 			<ul style="list-style-type: none;">
 				<li>Download project workseet <a href="{{teams[1].worksheetUrl}}">HERE</a></li>
-				<li>Visit the project page <a href="{{teams[1].url}}">HERE</a></li>
+				<!--<li>Visit the project page <a href="{{teams[1].url}}">HERE</a></li>-->
 			</ul>
 		</td> 
 		<td class="team" style="width:25%;text-align:right;">
