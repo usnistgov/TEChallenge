@@ -35,8 +35,8 @@
 - name: "CleanSpark"
   url: "http://www.cleanspark.com/"
   type: company
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Distributed, secure, opensource/commercially-compatible software package to allow systems of microgrids to share power
+  introdoc-url: "./Partner_intros/CleanSpark_one_slide.pdf"
 - name: "MITRE"
   url: "http://www.mitre.org/"
   type: company
@@ -77,11 +77,11 @@
   type: company 
   SummaryofInterest: 
   introdoc-url: ""
-- name: "TATA Consulting Services"
+- name: "Tata Consultancy Services"
   url: "http://www.tcs.com/Pages/default.aspx"
   type: company
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Modeling of markets, electric networks, DSO approach, conflicting participant objectives, and green energy promotion
+  introdoc-url: "./Partner_intros/Tata-TCS_V1.pdf"
 - name: "Alliander"
   url: "https://www.alliander.com/en"
   type: company  

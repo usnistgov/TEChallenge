@@ -54,7 +54,7 @@ team2:
 team3:
     name: TE Demo for Microgrid Energy Management
     lead: Jennifer Worrall, Cleanspark
-    url: "./team3"
+    url: "https://groups.google.com/forum/#!forum/transactive-energy-in-microgrid-systems"
     ideas:
     - title: Scalability – Account for devices inside of building to full external market
     - title: Theoretical grounding – transactive
