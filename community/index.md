@@ -61,4 +61,4 @@ A participating organization is one that has joined (communicated required infor
 
 ##Have an idea for a new team, comment, or something else to share with us?
 
-###>[Let us know](../join)<
+###>><a href="mailto:TEChallenge-info@nist.gov ?subject=TEChallenge--Ideas and comments &body=Hi,%0A%0A(Please send us your ideas and comments and new team suggestions. If you want to join an existing team, then click on the info for that team to get connected, and also go to the Join page to register for the Challenge.) %0A%0AThanks,%0AYour name%0AYour phone%0AYour organization" >Let us know!</a><<

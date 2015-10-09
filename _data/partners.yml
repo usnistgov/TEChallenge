@@ -11,12 +11,12 @@
   url: "http://www.nist.gov"
   type: government
   SummaryofInterest: We want to see TE modeling and simulation tools advance, collaboration increase, and understanding of TE approaches grow.
-  introdoc-url: "http://www.nist.gov"
+  introdoc-url: "http://www.nist.gov/smartgrid/techallenge.cfm"
 - name: "DOE GWAC"
   url: "http://www.gridwiseac.org/about/transactive_energy.aspx"
   type: government
   SummaryofInterest: Leading the way through TE conferences and white papers to understand the value of TE. 
-  introdoc-url: ""
+  introdoc-url: "http://www.gridwiseac.org/about/transactive_energy.aspx"
 - name: "PNNL"
   url: ""
   type: government
@@ -25,13 +25,13 @@
 - name: "Vanderbilt University"
   url: ""
   type: university
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Modeling & Analysis of SmartGrid, TE approaches, Communication Network, Cyber Threats, and Grid Stability
+  introdoc-url: "./Partner_intros/Vanderbilt.pdf"
 - name: "Carnegie Mellon University"
   url: ""
   type: university
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Reference grid and scenarios to enable grid simulations for TE. Exercise CMU DyMonDs simulation platform to understand TE impact on grid operations. 
+  introdoc-url: "http://www.nist.gov/smartgrid/upload/Steve-Ray-Reference-Grid-Model.pdf"
 - name: "CleanSpark"
   url: "http://www.cleanspark.com/"
   type: company
@@ -45,13 +45,13 @@
 - name: "ABB"
   url: ""
   type: company
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Market-based Transactive Exchanges, Control of Distributed Energy Resources, Local Grid Management, and Coordination between Centralized and Distributed Resources
+  introdoc-url: "./Partner_intros/ABB.pdf"
 - name: "TEMIX, Inc"
   url: ""
   type: company
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: TE Retail Energy & Distribution Tariffs. TE retail subscriptions, spot transactions, & business/ regulatory model.
+  introdoc-url: "./Partner_intros/TeMix.pdf"
 - name: "EPRI"
   url: ""
   type: company
@@ -60,8 +60,8 @@
 - name: "General Microgrids"
   url: ""
   type: company
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Modeling and design of smart microgrids
+  introdoc-url: "./Partner_intros/General_microgrids.pdf"
 - name: "MaCT"
   url: ""
   type: company  
@@ -70,13 +70,13 @@
 - name: "Energy Mashup Lab"
   url: "http://www.theenergymashuplab.org/"
   type: company
-  SummaryofInterest: 
-  introdoc-url: ""
-- name: "NEPLAN"
-  url: "http://support.neplan.ch/html/e/e_home.htm"
+  SummaryofInterest: Common infrastructure and architecture for transactive interoperation and energy agents.
+  introdoc-url: "./Partner_intros/Energy_Mashup_Lab.pdf"
+- name: "Hershey"
+  url: ""
   type: company 
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Analyze TE systems and compare performance and costs
+  introdoc-url: "./Partner_intros/Hershey.pdf"
 - name: "Tata Consultancy Services"
   url: "http://www.tcs.com/Pages/default.aspx"
   type: company
@@ -90,18 +90,18 @@
 - name: "Oklahoma University"
   url: ""
   type: university  
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Design for control of robust, resilient, adaptable complex systems to facilitate the integration between smart grids and various types of buildings.
+  introdoc-url: "./Partner_intros/OklahomaU.pdf"
 - name: "MIT"
   url: ""
   type: university 
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Develop dynamic market mechanism for microgrid models; implement in software and hardware.
+  introdoc-url: "./Partner_intros/MIT.pdf"
 - name: "Navigant"
   url: ""
   type: company 
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Coordination and control modeling to demonstrate value of transactive energy (TE) to utilities.
+  introdoc-url: "./Partner_intros/Navigant.pdf"
 - name: "NEMA"
   url: ""
   type: company 
@@ -120,8 +120,8 @@
 - name: "Bluewave Resources"
   url: ""
   type: company 
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Structuring of retail power markets and their value chain integration including with wholesale.
+  introdoc-url: "./Partner_intros/Bluewave.pdf"
 - name: "Edison Electric Institute"
   url: ""
   type: company 
@@ -132,3 +132,8 @@
   type: company 
   SummaryofInterest: 
   introdoc-url: ""
+- name: "Businovation"
+  url: ""
+  type: company 
+  SummaryofInterest: Resilient and Fault Tolerant Distributed Energy Systems through Transactive Energy. Modeling of grid-Interactive EVs.
+  introdoc-url: "./Partner_intros/Businovation.pdf"
