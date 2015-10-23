@@ -2,10 +2,16 @@
 
 ## Installation of tools
 For windows:
+
 1. install [AWS Command Line Tool](http://docs.aws.amazon.com/cli/latest/userguide/installing.html)
+
 1. install [Python](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi)
+
 1. Add python path to environment path variable
+
 1. Add a template for credentials in %USERPROFILE%\.aws
+
+
 Contents of %USERPROFILE%\.aws\credentials. file:
 
 		[default]
