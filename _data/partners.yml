@@ -63,10 +63,10 @@
   SummaryofInterest: Modeling and design of smart microgrids
   introdoc-url: "./Partner_intros/General_microgrids.pdf"
 - name: "MaCT"
-  url: ""
+  url: "http://www.mact-usa.com/"
   type: company  
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Provide bridging of various protocols for data sharing and analysis for TE system
+  introdoc-url: "./Partner_intros/MaCT_USA.pdf"
 - name: "Energy Mashup Lab"
   url: "http://www.theenergymashuplab.org/"
   type: company
@@ -103,10 +103,10 @@
   SummaryofInterest: Coordination and control modeling to demonstrate value of transactive energy (TE) to utilities.
   introdoc-url: "./Partner_intros/Navigant.pdf"
 - name: "NEMA"
-  url: ""
+  url: "http://www.nema.org/news/Lists/ElectroIndustryMagazine/Attachments/42/EI_June14.pdf"
   type: company 
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: to assist in developing Transactive Energy standards 
+  introdoc-url: "./Partner_intros/NEMA.pdf"
 - name: "Pepco Holdings, Inc."
   url: ""
   type: company 
