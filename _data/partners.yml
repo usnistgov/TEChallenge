@@ -97,6 +97,11 @@
   type: university 
   SummaryofInterest: Develop dynamic market mechanism for microgrid models; implement in software and hardware.
   introdoc-url: "./Partner_intros/MIT.pdf"
+- name: "Dartmouth"
+  url: ""
+  type: university 
+  SummaryofInterest: Multi-Agent System Transactive Energy Control Architecture for Microgrids; implement in hardware & software.
+  introdoc-url: "./Partner_intros/Dartmouth.pdf"
 - name: "Navigant"
   url: ""
   type: company 
@@ -128,10 +133,10 @@
   SummaryofInterest: 
   introdoc-url: ""
 - name: "CGI"
-  url: ""
+  url: "https://www.cgi.com/en/us/utilities"
   type: company 
-  SummaryofInterest: 
-  introdoc-url: ""
+  SummaryofInterest: Business and policy models which are critical success factors to the deployment of TE
+  introdoc-url: "./Partner_intros/CGI.pdf"
 - name: "Businovation"
   url: ""
   type: company 
