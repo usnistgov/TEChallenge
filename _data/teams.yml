@@ -32,7 +32,8 @@ team1:
     - name: PNNL
     - name: NIST
     - name: TeMix, Inc.
-    - name: Robert Hershey
+    - name: OATI
+    - name: Robert Hershey	
     worksheetUrl: "./team1/Team Ref Bus Reg Models.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team2
@@ -48,6 +49,7 @@ team2:
     - name: NEMA
     - name: CMU
     - name: MITRE
+    - name: Dartmouth
     worksheetUrl: "./team2/Team Ref Grid Scenarios.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team3
@@ -70,6 +72,8 @@ team3:
     - name: ABB
     - name: Navigant
     - name: Businovation
+    - name: Dartmouth
+    - name: Alstom	
     worksheetUrl: "./team3/Team Microgrid TE demos.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team4
