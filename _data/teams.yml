@@ -73,6 +73,7 @@ team3:
     - name: Navigant
     - name: Businovation
     - name: Dartmouth
+    - name: OATI
     - name: Alstom	
     worksheetUrl: "./team3/Team Microgrid TE demos.pdf" 
     imageUrl: "/assets/mstile-144x144.png"

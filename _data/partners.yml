@@ -6,7 +6,6 @@
 #	SummaryofInterest: main interest in participating in the Challenge
 #	introdoc-url: link to intro pdf file in the S3 partner file folder
 
-
 - name: "ABB"
   url: ""
   type: company
@@ -135,6 +134,11 @@
 - name: "PNNL"
   url: ""
   type: government
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "Siemens"
+  url: ""
+  type: company
   SummaryofInterest: 
   introdoc-url: ""
 - name: "Tata Consultancy Services"
