@@ -12,26 +12,32 @@ layout: page
 <a href="#video">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> || <a href="#TEapproach">TE Approaches</a> || <a href="#standard">Standards</a>
 <hr />
 
-<a id="Presentation">&nbsp;</a>
+<a id="presentation">&nbsp;</a>
 <h3>TE Presentations</h3>
 <dl>
-{% for document in site.data.documents %}
+{% for document in site.data.documents-new %}
 
   {% if document.category == "presentation" %}
   <dt>
-    {% if document.html %}
-    <a href="{{document.html}}" >
-    {{document.name}} (Web Page)</a>
+  
+    {% if document.url %}
+      
+        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+          {% if document.format == "html" %} (Web Page) {% endif %}
+          {% if document.format == "doc" %} (Doc) {% endif %}
+          {% if document.format == "pdf" %} (Pdf) {% endif %}
+        </a>
+      
     {% endif %}
-	
-    {% if document.doc %}
-    <a href="{{document.doc}}" >
-    {{document.name}} (Document) </a>
-    {% endif %}
-
-    {% if document.pdf %}
-    <a href="{{document.pdf}}" >
-    {{document.name}} (PDF) </a>
+    
+    {% if document.s3url %}
+      
+        <a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+          {% if document.format == "html" %} (Web Page) {% endif %}
+          {% if document.format == "doc" %} (Doc) {% endif %}
+          {% if document.format == "pdf" %} (Pdf) {% endif %}
+        </a>
+      
     {% endif %}
 
   </dt>
@@ -46,25 +52,29 @@ layout: page
 <a id="document">&nbsp;</a>
 <h3>TE Documents</h3>
 <dl>
-{% for document in site.data.documents %}
+{% for document in site.data.documents-new %}
 
   {% if document.category == "document" %}
   <dt>
-    {% if document.html %}
-    <a href="{{document.html}}" >
-    {{document.name}} (Web Page)</a>
+    {% if document.url %}
+      
+        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+          {% if document.format == "html" %} (Web Page) {% endif %}
+          {% if document.format == "doc" %} (Doc) {% endif %}
+          {% if document.format == "pdf" %} (Pdf) {% endif %}
+        </a>
+      
     {% endif %}
-
-    {% if document.doc %}
-    <a href="{{document.doc}}" >
-    {{document.name}} (Document) </a>
+    
+    {% if document.s3url %}
+      
+        <a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+          {% if document.format == "html" %} (Web Page) {% endif %}
+          {% if document.format == "doc" %} (Doc) {% endif %}
+          {% if document.format == "pdf" %} (Pdf) {% endif %}
+        </a>
+      
     {% endif %}
-
-    {% if document.pdf %}
-    <a href="{{document.pdf}}" >
-    {{document.name}} (.pdf) </a>
-    {% endif %}
-
   </dt>
 
 
@@ -75,28 +85,32 @@ layout: page
 </dl>
 
 
-<a id="espidev">&nbsp;</a>
+<a id="TEapproach">&nbsp;</a>
 <h3>TE Approaches</h3>
 <dl>
-{% for document in site.data.documents %}
+{% for document in site.data.documents-new %}
 
   {% if document.category == "TEapproach" %}
   <dt>
-    {% if document.html %}
-    <a href="{{document.html}}" >
-    {{document.name}} (Web Page)</a>
+    {% if document.url %}
+      
+        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+          {% if document.format == "html" %} (Web Page) {% endif %}
+          {% if document.format == "doc" %} (Doc) {% endif %}
+          {% if document.format == "pdf" %} (Pdf) {% endif %}
+        </a>
+      
     {% endif %}
-
-    {% if document.doc %}
-    <a href="{{document.doc}}" >
-    {{document.name}} (Document) </a>
+    
+    {% if document.s3url %}
+      
+        <a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+          {% if document.format == "html" %} (Web Page) {% endif %}
+          {% if document.format == "doc" %} (Doc) {% endif %}
+          {% if document.format == "pdf" %} (Pdf) {% endif %}
+        </a>
+      
     {% endif %}
-
-    {% if document.pdf %}
-    <a href="{{document.pdf}}" >
-    {{document.name}} (.pdf) </a>
-    {% endif %}
-
   </dt>
 
 

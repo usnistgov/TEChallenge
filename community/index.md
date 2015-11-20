@@ -12,7 +12,7 @@ Information regarding the teams formed during (or since) the September kickoff i
 
 <table id="teams" style="width:100%">
 	{% for teams in site.data.teams %}
-	<tr><td colspan="3"><br/></td></tr>
+	<tr><td colspan="3"><br/>{{teams[0]}}</td></tr>
 	<tr>
 		<td class="team" style="width:25%;text-align:center;">
 			<img class="logo" src="{{ site.baseurl }}/{{ teams[1].imageUrl }}" alt="TE Challenge">
@@ -28,7 +28,29 @@ Information regarding the teams formed during (or since) the September kickoff i
 			<br/><br/>
 			<b>What's next:</b>
 			<ul style="list-style-type: none;">
-				<li>Download project workseet <a href="{{teams[1].worksheetUrl}}">HERE</a></li>
+				{% for document in site.data.documents-new %}
+					{% if document.team == teams[0] %}
+						{% if document.url %}
+						<li>
+							<a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+							{% if document.format == "html" %} (Web Page) {% endif %}
+							{% if document.format == "doc" %} (Doc) {% endif %}
+							{% if document.format == "pdf" %} (Pdf) {% endif %}
+							</a>
+						</li>
+						{% endif %}
+						
+						{% if document.s3url %}
+						<li>
+							<a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+							{% if document.format == "html" %} (Web Page) {% endif %}
+							{% if document.format == "doc" %} (Doc) {% endif %}
+							{% if document.format == "pdf" %} (Pdf) {% endif %}
+							</a>
+						</li>
+						{% endif %}
+					{% endif %}
+				{% endfor %}
 				<li>Get connected with the team <a href="{{teams[1].url}}">HERE</a></li>
 			</ul>
 		</td> 
@@ -53,8 +75,33 @@ A participating organization is one that has joined (communicated required infor
 
 <ul>
 	{% for partner in site.data.partners %}
-    <li>
-		<a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a> <a href="{{ partner.introdoc-url }}" target="_blank">[pdf]</a> -- {{ partner.SummaryofInterest }}
+    <li> {{ partner.name }} - {{ partner.url }}
+		<ul>
+		{% for document in site.data.documents-new %}
+			{% if document.team == partner.name %}
+				{% if document.url %}
+				<li>
+					<a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+					{% if document.format == "html" %} (Web Page) {% endif %}
+					{% if document.format == "doc" %} (Doc) {% endif %}
+					{% if document.format == "pdf" %} (Pdf) {% endif %}
+					</a>
+				</li>
+				{% endif %}
+				
+				{% if document.s3url %}
+				<li>
+					<a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+					{% if document.format == "html" %} (Web Page) {% endif %}
+					{% if document.format == "doc" %} (Doc) {% endif %}
+					{% if document.format == "pdf" %} (Pdf) {% endif %}
+					</a>
+				</li>
+				{% endif %}
+			{% endif %}
+		{% endfor %}
+		</ul>
+		<em style="padding:5px;">{{ partner.SummaryofInterest }}</em>
 	</li>
 	{% endfor %}
 </ul>
