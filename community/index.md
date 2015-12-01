@@ -12,7 +12,7 @@ Information regarding the teams formed during (or since) the September kickoff i
 
 <table id="teams" style="width:100%">
 	{% for teams in site.data.teams %}
-	<tr><td colspan="3"><br/>{{teams[0]}}</td></tr>
+	<tr><td colspan="3"><br/></td></tr>
 	<tr>
 		<td class="team" style="width:25%;text-align:center;">
 			<img class="logo" src="{{ site.baseurl }}/{{ teams[1].imageUrl }}" alt="TE Challenge">

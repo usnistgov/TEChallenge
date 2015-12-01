@@ -1,5 +1,13 @@
 # This file contains the presentations library for TE Challenge
 
+# - name: name of the document
+#   description: description of the document
+#   category: one of "document" | "presentation" | "TEapproach" | "standard" | "video" | ""
+#   url:
+#   md5:
+#   sha512:
+#   team: a team mnemonic string we will create and use "<team_name>" | "<organization_name>" | ""
+#   format: one of "pdf" | "doc" | html | "xls" | "txt" | "img" !!! NOT populated automatically 
 
 - name: "TE Challenge Preparatory Workshop presentations"
   description: "The collected presentations from the plenary of the March, 2015 TE Challenge Preparatory Workshop"
