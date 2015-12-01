@@ -1,45 +1,224 @@
 # This file contains the presentations library for TE Challenge
-  
-# - name: "the title string of the presentation"
-#   description: "a description"  
-#   category: ["document" | "presentation" | "TEapproach" | "standard" | ""]
-#   pdf: "presentation .pdf location url"
-#   doc: "presentation .ppt(x) location url"
-#   html: "html location url"    
-#   slideshare: "url of a slideshare posting (if any)"
-#   embedded: "embeded html (if any)"
-#   featured: true (if item should be featured)
+
 
 - name: "TE Challenge Preparatory Workshop presentations"
   description: "The collected presentations from the plenary of the March, 2015 TE Challenge Preparatory Workshop"
   category: presentation
-  html: "http://www.nist.gov/el/building_environment/mechsys/te-challenge-preparatory-workshop.cfm"
+  url: "http://www.nist.gov/el/building_environment/mechsys/te-challenge-preparatory-workshop.cfm"
 - name: "TE Challenge Kickoff Meeting presentations"
   description: "Presentations from the morning plenary of the Sep 10, 2015 TE Challenge Kickoff Meeting"
   category: presentation
-  html: "http://www.nist.gov/smartgrid/te_challenge_wkshop.cfm"
+  url: "http://www.nist.gov/smartgrid/te_challenge_wkshop.cfm"
 - name: "GWAC Transactive Energy Framework 1.0"
   description: "The DOE Gridwise Architectural Council's Transactive Energy Framework document, Jan 2015"
   category: document
-  pdf: "http://www.gridwiseac.org/pdfs/te_framework_report_pnnl-22946.pdf"
+  url: "http://www.gridwiseac.org/pdfs/te_framework_report_pnnl-22946.pdf"
 - name: "TEMIX"
   description: "Transactive EMIX application concept"
   category: TEapproach
-  html: "http://www.slideshare.net/barrager/transactive-energy-keystone-of-sustainable-electricity-markets"
+  url: "http://www.slideshare.net/barrager/transactive-energy-keystone-of-sustainable-electricity-markets"
 - name: "GWAC TE introduction webpage"
   description: "GWAC introduction to TE and links to various GWAC TE documents and events"
   category: document
-  html: http://www.gridwiseac.org/about/transactive_energy.aspx
+  url: http://www.gridwiseac.org/about/transactive_energy.aspx
 - name: "GridWise Olympic Peninsula Demonstration"
   description: "Pacific Northwest GridWise™ Testbed Demonstration Projects, Part I. Olympic Peninsula Project Report."
   category: document
-  pdf: https://www.smartgrid.gov/files/PNNL_GridWise_Testbed_Demo_Projects_Part_I_Olympic_Peninsula_200711.pdf
+  url: https://www.smartgrid.gov/files/PNNL_GridWise_Testbed_Demo_Projects_Part_I_Olympic_Peninsula_200711.pdf
 - name: "Pacific Northwest Smart Grid Demonstration Technology Performance Report"
   description: "Pacific Northwest Smart Grid Demonstration Technology Performance Report (see chapter 2)"
   category: document
-  html: https://www.smartgrid.gov/document/Pacific_Northwest_Smart_Grid_Technology_Performance.html
+  url: https://www.smartgrid.gov/document/Pacific_Northwest_Smart_Grid_Technology_Performance.html
 - name: "AEP GridSmart Demonstration Technology Performance Report"
   description: "AEP GridSmart Demonstration Technology Performance Report (see chapter 4)"
   category: document
-  pdf: "https://www.smartgrid.gov/files/AEP_Ohio_DE-OE-0000193_Final_Technical_Report_06-23-2014.pdf"
- 
+  url: "https://www.smartgrid.gov/files/AEP_Ohio_DE-OE-0000193_Final_Technical_Report_06-23-2014.pdf"
+- name: "TeamMicrogridTEdemos.pdf"
+  description: "Microgrids team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/files/TEChallenge/TeamMicrogridTEdemos.pdf
+  md5: 912cecb608485b4ba90678bd15e01b66
+  sha512: 5ec9b6e1650ce9a6768c8d5987ba8f81e61e9f202b26e1256896bf9adfe9dcdaf225b80336a2087c32e1a9ac82c041e0338bb937d62bd36406fdc122f0eb62c2
+  team: team3
+- name: "TeamCo-simPlatforms.pdf"
+  description: "Co-simulation team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TEChallenge/TeamCo-simPlatforms.pdf
+  md5: 25eedd34e468c6da2b4cb9504e573561
+  sha512: a784ae622eb46efa80f8b919651dd46794b730a0000e66ae18126da7234860171d368ea7862883adf5dc6f97b6bda6c3480cbfa2aa080b540b69a82caa61b394
+  team: team5
+- name: "TeamRefGridScenarios.pdf"
+  description: "Reference Grid and Scenarios team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TEChallenge/TeamRefGridScenarios.pdf
+  md5: fc48982040da910a9fe937cb7d4dbb4a
+  sha512: 6182ff9e79b467e68fd32cf23f65c68d17f781be65e38c0d23d1f0e25e1ae681cc49d71775ee43d72424c2a685d4eca3643de03c40a0af55e0fe0dc5abe38964
+  team: team2
+- name: "TeamRefGridScenarios.pdf"
+  description: "Reference Grid and Scenarios team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamRefGridScenarios.pdf
+  md5: fc48982040da910a9fe937cb7d4dbb4a
+  sha512: 6182ff9e79b467e68fd32cf23f65c68d17f781be65e38c0d23d1f0e25e1ae681cc49d71775ee43d72424c2a685d4eca3643de03c40a0af55e0fe0dc5abe38964
+  team: team2
+- name: "TeamCo-simPlatforms.pdf"
+  description: "Co-simulation team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamCo-simPlatforms.pdf
+  md5: 25eedd34e468c6da2b4cb9504e573561
+  sha512: a784ae622eb46efa80f8b919651dd46794b730a0000e66ae18126da7234860171d368ea7862883adf5dc6f97b6bda6c3480cbfa2aa080b540b69a82caa61b394
+  team: team5
+- name: "TeamMicrogridTEdemos.pdf"
+  description: "Microgrids team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamMicrogridTEdemos.pdf
+  md5: 912cecb608485b4ba90678bd15e01b66
+  sha512: 5ec9b6e1650ce9a6768c8d5987ba8f81e61e9f202b26e1256896bf9adfe9dcdaf225b80336a2087c32e1a9ac82c041e0338bb937d62bd36406fdc122f0eb62c2
+  team: team3
+- name: "TeamTEInteropAbstractInterax.pdf"
+  description: "Abstract Interop team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamTEInteropAbstractInterax.pdf
+  md5: dedcf6f57d6542a5dcdba0a77944ab9a
+  sha512: 702f032dc9fc4022469ab6f59789c0de0edc2e15265f7fc9c557ce78997551e14f49861bd4021683b71b9f969e8aab71702e14811dcad78c0818c867a68c0a82
+  team: team4
+- name: "TeamRefBusRegModels.pdf"
+  description: "Reference Business and Regulatory Models team project worksheet"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamRefBusRegModels.pdf
+  md5: e5861b5b8852b8b5b03c798ebc967be9
+  sha512: 4d84c902e1bcf417a496109f94b0631921c9edd151d5e046d8a2dc11bf961c611c56ebea6b28ca3e65b21f2d3569e13ef60a60d4cbf65ef338493dfb653a78bb
+  team: team5
+- name: "Dartmouth.pdf"
+  description: "Dartmouth intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/Dartmouth.pdf
+  md5: 4df39d740bf9083e2704d850f221f90a
+  sha512: 795098220a30a6e0fb6519f01385e8e3e59ccfe8b35e75e41805ab44ceae84b0f30e39ca66dd039db220508d43548d393e36c81f72d47de604f542cebac5f3ed
+  team: Dartmouth
+- name: "CGI.pdf"
+  description: "CGI intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/CGI.pdf
+  md5: 9faba53a1bb70152d937f46399acb0e8
+  sha512: ccdea16fb95895f083ffb9c37534651aba1a8e8b07ab87e9198296edcb7c56f5d197e4e8d99cc98e4f234a0e25587a59da7c240bef8c467ddfc25b362933a773
+  team: CGI
+- name: "NEMA.pdf"
+  description: "NEMA intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/NEMA.pdf
+  md5: 729cdae7a3e6eecca783921458e14fc0
+  sha512: 5b17520aa696404a5da6cfc09596136e39fb74abfb203011e78a7771e7308911b84a1d7c0e06e06f26d100c011e62b64c8a866f161c57532c9f8cd74eb94dcdd
+  team: NEMA
+- name: "MaCTUSA.pdf"
+  description: "MaCT_USA intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/MaCTUSA.pdf
+  md5: 4fb951857ff30052ded2a81c6a251d48
+  sha512: 5c24db513c0cb5f8543fb107962784c141f00d613de0b46e836844636f596667b7c1ca460b6e9225a6e2b4a8c7d95b41d961a02fe2df13426703b9a7e0189e08
+  team: MaCT_USA
+- name: "TeMix.pdf"
+  description: "TeMix intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/TeMix.pdf
+  md5: 338814a0df527fc6b7bd7871b838c4b1
+  sha512: 0ac26881c21b767028bb4522d55357d9b6b621861dff8922cd87286b8307d624931874f290eea560351e1f056816d7a5104254c96177a688c77b4487e68779b5
+  team: TeMix
+- name: "GeneralMG.pdf"
+  description: "General Microgrids intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/GeneralMG.pdf
+  md5: f2d3a04a556289eb0c6176c5dcad49d5
+  sha512: c07c6a30805ce498af8da65fa2d1952d9bd29adbd9093790c06a818db059073ca471c9a404d07067aadd1d11ab8ae2d48a2d3ec57e29b848af7e0d8e69f73dea
+  team: GeneralMG
+- name: "EML.pdf"
+  description: "EML intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/EML.pdf
+  md5: fada699b1632b2bd576608174474275c
+  sha512: 9d0918ebf0cc6b7c03e2ef3c2a022242998e4f5919390662f10ee06ff48e2fde2ae2d9bbaa13af5632281b6cbf05748cb7ec61536d266107ba7ffe875fe07b70
+  team: EML
+- name: "Businovation.pdf"
+  description: "Businovation intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/Businovation.pdf
+  md5: bd26983cd6c552c7559996243ec9af22
+  sha512: 4a355c8173d48a3b0c8c045a42e4173f6d07d121224abf24a72fe33112a7a99ead79dda62751dbef51b0b0af4a3ec683bbab141a668bd676bfb661d35a324bc0
+  team: Businovation
+- name: "Vanderbilt.pdf"
+  description: "Vanderbilt intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/Vanderbilt.pdf
+  md5: ed3798b5c112d9d598a7e9474d43bac2
+  sha512: 403e1ded1524b2f4a0f974811c41ba5596f7af0a934794771697e702c01b400e1a95fe0aa90c2137c2dcca21e3f4c281c5b1dc1a795aa4f73183482a6485f9be
+  team: Vanderbilt
+- name: "Navigant.pdf"
+  description: "Navigant intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/Navigant.pdf
+  md5: 3389f3ac5a9b93408d3d18fbc54f9aac
+  sha512: cef4f44a1026df78bce2ba5b8e142d98dae56b5cc86de66bdd0337447f4dbe0345998ff336386a603265776c949a958d95c8489ae5fc4c284fa019023755b1ce
+  team: Navigant
+- name: "ABB.pdf"
+  description: "ABB intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/ABB.pdf
+  md5: 948b2f5feaa906514dbdefacc957cd55
+  sha512: 147b6910ff561f574134388a553987a5f7e010c28af79f080f6c180375d405b2dc794f582d097fd75dc468ee342250adff49330bb81de615971da7a1f5ceafc0
+  team: ABB
+- name: "MIT.pdf"
+  description: "MIT intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/MIT.pdf
+  md5: a1f9d72b98359d467cf8446e3e4bcb8d
+  sha512: 6373109bae3510d0d9dc7c10d73f48d81b86ddef7287c513322d9989800d9f67ed98ec43ca5784cda7bb658fad09fc83da1dfc48a960750baddaf9637b37c32d
+  team: MIT
+- name: "Bluewave.pdf"
+  description: "Bluewave intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/Bluewave.pdf
+  md5: 7068fbb125c93aec7b7c8e256325d389
+  sha512: 3b898803380e62670f7cea3953e22be4e5db7afd3078519a0a3daa62e87014daf9db9d5def3994c2aad031336dae75429ba794146e53c32250e0c6dae5422c3b
+  team: Bluewave
+- name: "OU.pdf"
+  description: "Oklahoma Univ intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/OU.pdf
+  md5: ce2e899cac80a69c1e051dcb4ed6cfdf
+  sha512: daf092c3f8480ed1988642d9106711401e4f3fca682d2c7d6131d5f5453a76b6964c222dadf9a23944ff7a99f14e26fea54f8007a80b39247e3676999ef8081e
+  team: OU
+- name: "Hershey.pdf"
+  description: "Robert Hershey intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/Hershey.pdf
+  md5: fa85ce44557719635ca0b56fbccb83a4
+  sha512: 8dd63aa9fcaa786b1e5d6f86bfb005ea11125568bf1e446311d9fbcf4cb0eee28ffa42b0fe58616e71e226cf5ab0b6ca5547850599218edfbae2c414796a3d0a
+  team: Hershey
+- name: "Tata.pdf"
+  description: "Tata Consultancy intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/Tata.pdf
+  md5: cb9aa728c6fe0957c3397724063930d2
+  sha512: 53ea5edf01ab688280fc54b4224ce945e0a3780247e4d8de8ec276082079d0b039963bfb252838bb16645d96b94b78bdbc6a886e14a8fcec883e2bd1c20af110
+  team: Tata
+- name: "CleanSpark.pdf"
+  description: "CleanSpark intro"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Partner_intros/CleanSpark.pdf
+  md5: 7d757d5e990ad948af7f85be58b52458
+  sha512: 74b6873d51241fc47b1e555acd35286d8f5f18af76ad1efd37e5a34e58123a249d9ec3613d5f68248d867025263431aa3eb0e150b9bdf0f4eb3a5bd4de2b8e71
+  team: CleanSpark
+- name: "CMU-SGRS-YR1.pdf"
+  description: "CMU final report on SGRS project Year 1 for NIST"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/CMU-SGRS-YR1.pdf
+  md5: 9bfbdbb9532551942022d34adbc8d911
+  sha512: efccd7b7377ef003a35a1ee0dc3d83cce20f07c10f2b66e806e009776a7dae252d44de60b2781c50b5d249253fd6305cd830239bfce8cf644f7cc5f9caf67c2e
+  team: CMU
+- name: "CMU-SGRS-YR2.pdf"
+  description: "CMU final report on SGRS project Year 2 for NIST"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/CMU-SGRS-YR2.pdf
+  md5: e32d9cfba145ef99baddd6a3a34c612a
+  sha512: 50ba2e7c3cd60637cd0d0540a66c8593f46cd052064c767ab0866c875b0e43c897b88ef2e55f886f486bb53d7b7a5dacef3498c2d829ab8711e53ede6c0023f3
+  team: CMU

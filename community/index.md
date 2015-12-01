@@ -28,21 +28,11 @@ Information regarding the teams formed during (or since) the September kickoff i
 			<br/><br/>
 			<b>What's next:</b>
 			<ul style="list-style-type: none;">
-				{% for document in site.data.documents-new %}
+				{% for document in site.data.documents %}
 					{% if document.team == teams[0] %}
 						{% if document.url %}
 						<li>
-							<a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
-							{% if document.format == "html" %} (Web Page) {% endif %}
-							{% if document.format == "doc" %} (Doc) {% endif %}
-							{% if document.format == "pdf" %} (Pdf) {% endif %}
-							</a>
-						</li>
-						{% endif %}
-						
-						{% if document.s3url %}
-						<li>
-							<a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+							<a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.name}}</span>
 							{% if document.format == "html" %} (Web Page) {% endif %}
 							{% if document.format == "doc" %} (Doc) {% endif %}
 							{% if document.format == "pdf" %} (Pdf) {% endif %}
@@ -77,21 +67,11 @@ A participating organization is one that has joined (communicated required infor
 	{% for partner in site.data.partners %}
     <li> {{ partner.name }} - {{ partner.url }}
 		<ul>
-		{% for document in site.data.documents-new %}
+		{% for document in site.data.documents %}
 			{% if document.team == partner.name %}
 				{% if document.url %}
 				<li>
-					<a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
-					{% if document.format == "html" %} (Web Page) {% endif %}
-					{% if document.format == "doc" %} (Doc) {% endif %}
-					{% if document.format == "pdf" %} (Pdf) {% endif %}
-					</a>
-				</li>
-				{% endif %}
-				
-				{% if document.s3url %}
-				<li>
-					<a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+					<a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.name}}</span>
 					{% if document.format == "html" %} (Web Page) {% endif %}
 					{% if document.format == "doc" %} (Doc) {% endif %}
 					{% if document.format == "pdf" %} (Pdf) {% endif %}

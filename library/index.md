@@ -15,29 +15,17 @@ layout: page
 <a id="presentation">&nbsp;</a>
 <h3>TE Presentations</h3>
 <dl>
-{% for document in site.data.documents-new %}
+{% for document in site.data.documents %}
 
   {% if document.category == "presentation" %}
   <dt>
   
     {% if document.url %}
-      
-        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.name}}</span>
           {% if document.format == "html" %} (Web Page) {% endif %}
           {% if document.format == "doc" %} (Doc) {% endif %}
           {% if document.format == "pdf" %} (Pdf) {% endif %}
         </a>
-      
-    {% endif %}
-    
-    {% if document.s3url %}
-      
-        <a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
-          {% if document.format == "html" %} (Web Page) {% endif %}
-          {% if document.format == "doc" %} (Doc) {% endif %}
-          {% if document.format == "pdf" %} (Pdf) {% endif %}
-        </a>
-      
     {% endif %}
 
   </dt>
@@ -52,29 +40,19 @@ layout: page
 <a id="document">&nbsp;</a>
 <h3>TE Documents</h3>
 <dl>
-{% for document in site.data.documents-new %}
+{% for document in site.data.documents %}
 
   {% if document.category == "document" %}
   <dt>
+  
     {% if document.url %}
-      
-        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.name}}</span>
           {% if document.format == "html" %} (Web Page) {% endif %}
           {% if document.format == "doc" %} (Doc) {% endif %}
           {% if document.format == "pdf" %} (Pdf) {% endif %}
-        </a>
-      
+        </a>  
     {% endif %}
     
-    {% if document.s3url %}
-      
-        <a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
-          {% if document.format == "html" %} (Web Page) {% endif %}
-          {% if document.format == "doc" %} (Doc) {% endif %}
-          {% if document.format == "pdf" %} (Pdf) {% endif %}
-        </a>
-      
-    {% endif %}
   </dt>
 
 
@@ -88,29 +66,18 @@ layout: page
 <a id="TEapproach">&nbsp;</a>
 <h3>TE Approaches</h3>
 <dl>
-{% for document in site.data.documents-new %}
+{% for document in site.data.documents %}
 
   {% if document.category == "TEapproach" %}
   <dt>
     {% if document.url %}
-      
-        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
+        <a href="{{document.url}}"><span style="font-weight:bold;color:green;">{{document.name}}</span>
           {% if document.format == "html" %} (Web Page) {% endif %}
           {% if document.format == "doc" %} (Doc) {% endif %}
           {% if document.format == "pdf" %} (Pdf) {% endif %}
-        </a>
-      
+        </a>  
     {% endif %}
     
-    {% if document.s3url %}
-      
-        <a href="{{document.s3url}}"><span style="font-weight:bold;color:green;">{{document.title}}</span>
-          {% if document.format == "html" %} (Web Page) {% endif %}
-          {% if document.format == "doc" %} (Doc) {% endif %}
-          {% if document.format == "pdf" %} (Pdf) {% endif %}
-        </a>
-      
-    {% endif %}
   </dt>
 
 
