@@ -41,27 +41,6 @@
   description: "AEP GridSmart Demonstration Technology Performance Report (see chapter 4)"
   category: document
   url: "https://www.smartgrid.gov/files/AEP_Ohio_DE-OE-0000193_Final_Technical_Report_06-23-2014.pdf"
-- name: "TeamMicrogridTEdemos.pdf"
-  description: "Microgrids team project worksheet"
-  category: "document"
-  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/files/TEChallenge/TeamMicrogridTEdemos.pdf
-  md5: 912cecb608485b4ba90678bd15e01b66
-  sha512: 5ec9b6e1650ce9a6768c8d5987ba8f81e61e9f202b26e1256896bf9adfe9dcdaf225b80336a2087c32e1a9ac82c041e0338bb937d62bd36406fdc122f0eb62c2
-  team: team3
-- name: "TeamCo-simPlatforms.pdf"
-  description: "Co-simulation team project worksheet"
-  category: "document"
-  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TEChallenge/TeamCo-simPlatforms.pdf
-  md5: 25eedd34e468c6da2b4cb9504e573561
-  sha512: a784ae622eb46efa80f8b919651dd46794b730a0000e66ae18126da7234860171d368ea7862883adf5dc6f97b6bda6c3480cbfa2aa080b540b69a82caa61b394
-  team: team5
-- name: "TeamRefGridScenarios.pdf"
-  description: "Reference Grid and Scenarios team project worksheet"
-  category: "document"
-  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TEChallenge/TeamRefGridScenarios.pdf
-  md5: fc48982040da910a9fe937cb7d4dbb4a
-  sha512: 6182ff9e79b467e68fd32cf23f65c68d17f781be65e38c0d23d1f0e25e1ae681cc49d71775ee43d72424c2a685d4eca3643de03c40a0af55e0fe0dc5abe38964
-  team: team2
 - name: "TeamRefGridScenarios.pdf"
   description: "Reference Grid and Scenarios team project worksheet"
   category: "document"
@@ -96,7 +75,7 @@
   url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamRefBusRegModels.pdf
   md5: e5861b5b8852b8b5b03c798ebc967be9
   sha512: 4d84c902e1bcf417a496109f94b0631921c9edd151d5e046d8a2dc11bf961c611c56ebea6b28ca3e65b21f2d3569e13ef60a60d4cbf65ef338493dfb653a78bb
-  team: team5
+  team: team1
 - name: "Dartmouth.pdf"
   description: "Dartmouth intro"
   category: "document"
