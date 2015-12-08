@@ -71,6 +71,11 @@
   type: company
   SummaryofInterest: 
   introdoc-url: ""
+- name: "Geli"
+  url: ""
+  type: company
+  SummaryofInterest: Control and Optimization of DERs 
+  introdoc-url: ""
 - name: "General Microgrids"
   url: ""
   type: company
@@ -151,6 +156,11 @@
   type: company
   SummaryofInterest: TE Retail Energy & Distribution Tariffs. TE retail subscriptions, spot transactions, & business/ regulatory model.
   introdoc-url: "./Partner_intros/TeMix.pdf"
+- name: "University of Maryland"
+  url: ""
+  type: university
+  SummaryofInterest: 
+  introdoc-url: 
 - name: "Vanderbilt University"
   url: ""
   type: university

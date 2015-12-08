@@ -75,6 +75,7 @@ team3:
     - name: Dartmouth
     - name: OATI
     - name: Alstom	
+    - name: Geli
     worksheetUrl: "./team3/Team Microgrid TE demos.pdf" 
     imageUrl: "/assets/mstile-144x144.png"
 # team4
@@ -103,6 +104,7 @@ team5:
     - name: Vanderbilt
     - name: PNNL
     - name: CMU
+    - name: U Maryland	
     - name: IBM
     - name: DOE
     worksheetUrl: "./team5/Team Co-sim Platforms.pdf" 
