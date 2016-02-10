@@ -209,3 +209,17 @@
   md5: e32d9cfba145ef99baddd6a3a34c612a
   sha512: 50ba2e7c3cd60637cd0d0540a66c8593f46cd052064c767ab0866c875b0e43c897b88ef2e55f886f486bb53d7b7a5dacef3498c2d829ab8711e53ede6c0023f3
   team: CMU
+- name: "TeamTransactiveADR.pdf"
+  description: "intro to the Transactive ADR team"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamTransactiveADR.pdf
+  md5: 5500144dc451327d848f3bcdcae67dff
+  sha512: c7b3d4c84ae0c0aedf12709f525990e9ba98061d5459e1ef4c21255c2788a3cc43207e3c87cac2189cc6929436f23cfaad8910f107a3d9e9de85f84af64d4283
+  team: team6
+- name: "TeamPowerMatcherIoT.pdf"
+  description: "intro to the PowerMatcher IoT team"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamPowerMatcherIoT.pdf
+  md5: 022da3f0c9be72a5ce67c4ceed699f88
+  sha512: 247a89c0148a1323ad67ce6d9cc4f2792524763b57d8263a488185ccef98d74312ad20c3551e717db31327c456e576dbfc5baaf89382b28c7bc4e06b75fa066e
+  team: team7

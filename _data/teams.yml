@@ -34,8 +34,8 @@ team1:
     - name: TeMix, Inc.
     - name: OATI
     - name: Robert Hershey	
-    worksheetUrl: "./team1/Team Ref Bus Reg Models.pdf" 
-    imageUrl: "/assets/mstile-144x144.png"
+    # worksheetUrl: "./team1/Team Ref Bus Reg Models.pdf" 
+    imageUrl: "/assets/Team-Reg-BusModels-150x113.png"
 # team2
 team2:
     name: Reference Grid and Scenarios for TE Simulation
@@ -50,8 +50,8 @@ team2:
     - name: CMU
     - name: MITRE
     - name: Dartmouth
-    worksheetUrl: "./team2/Team Ref Grid Scenarios.pdf" 
-    imageUrl: "/assets/mstile-144x144.png"
+    # worksheetUrl: "./team2/Team Ref Grid Scenarios.pdf" 
+    imageUrl: "/assets/Team-Ref-Grid-Scen-180x118.png"
 # team3
 team3:
     name: TE Demo for Microgrid Energy Management
@@ -76,13 +76,13 @@ team3:
     - name: OATI
     - name: Alstom	
     - name: Geli
-    worksheetUrl: "./team3/Team Microgrid TE demos.pdf" 
-    imageUrl: "/assets/mstile-144x144.png"
+    # worksheetUrl: "./team3/Team Microgrid TE demos.pdf" 
+    imageUrl: "/assets/Team-Microgrids-140x145.png"
 # team4
 team4:
     name:  TE Interoperations and Abstract Interaction
     lead: Shawn Chandler, William Cox	
-    url: "./team4"
+    url: "https://groups.google.com/d/forum/transactive-energy-abstract-interoperation"
     ideas:
     - title: Align what is simulated with real TE message exchanges by finding common meanings across environments
     partners:
@@ -91,13 +91,14 @@ team4:
     - name: Navigant
     - name: MACT
     - name: TeMix
-    worksheetUrl: "./team4/Team TE Interop Abstract Interax.pdf" 
-    imageUrl: "/assets/mstile-144x144.png"
+    - name: Caltech Resnick Institute
+    # worksheetUrl: "./team4/Team TE Interop Abstract Interax.pdf" 
+    imageUrl: "/assets/Team-Common-Transactive-Services180x120.png"
 # team5
 team5:
     name: Co-Simulation Platforms
-    lead: TBD
-    url: "./team5"
+    lead: Himanshu Neema, Marija Ilic
+    url: "mailto:techallenge-info@nist.gov?subject=Connect%20me%20to%20the%20Co-sim%20Platform%20team&#038;body=Thanks!%0A[Your%20contact%20information]"
     ideas:
     - title: Create an “Open Platform” for integrating and coordinating across a diverse suite of modeling and simulation tools, and conduct integrated experiments.
     partners:
@@ -107,5 +108,36 @@ team5:
     - name: U Maryland	
     - name: IBM
     - name: DOE
-    worksheetUrl: "./team5/Team Co-sim Platforms.pdf" 
-    imageUrl: "/assets/mstile-144x144.png"
+    # worksheetUrl: "./team5/Team Co-sim Platforms.pdf" 
+    imageUrl: "/assets/Team-Co-Sim-Platform-180x100.png"
+# team6
+team6:
+    name: Transactive ADR
+    lead: Rolf Bienert
+    url: "mailto:techallenge-info@nist.gov?subject=Connect%20me%20to%20the%20Transactive%20ADR%20team&#038;body=Thanks!%0A[Your%20contact%20information]"
+    ideas:
+    - title: Advance TE in OpenADR Alliance, leveraging established DR member alliance to create an industry solution for TE.
+    partners:
+    - name: OpenADR Alliance
+    - name: Cleanspark
+    - name: EML
+    - name: Alliander
+    # worksheetUrl: "./team6/TeamTransactiveADR.pdf" 
+    imageUrl: "/assets/Team-TransactiveADR-200x50.png"
+
+# team7
+team7:
+    name: PowerMatcher IoT
+    lead: William Miller
+    url: "mailto:techallenge-info@nist.gov?subject=Connect%20me%20to%20the%20PowerMatcher%20IoT%20team&#038;body=Thanks!%0A[Your%20contact%20information]"
+    ideas:
+    - title: Demonstrate the benefits to the US electric grid of a market approach using PowerMatcher. 
+    partners:
+    - name: MacT-USA
+    - name: Alliander
+    - name: TNO
+    - name: SUNY/Buffalo State	
+    - name: Rowan State
+    - name: CMU
+    # worksheetUrl: "./team7/TeamPowerMatcherIoT.pdf" 
+    imageUrl: "/assets/Team-PowerMatcher-IoT-180x106.png"

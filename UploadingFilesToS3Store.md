@@ -50,9 +50,9 @@ Contents of %USERPROFILE%\.aws\credentials. file:
 
 
 		Usage: yamlDocumentRecord.py filename title description category team
-		<filename> is a filename to use
-		<title> is title
-		<description> is description
+		<filename> is a filename to use ("files/subdir/filename")
+		<title> is title (in "" if more than one word)
+		<description> is description (in "" if more than one word)
 		<category> is one of "document" | "presentation" | "TEapproach" | "standard" | "video" | ""
 		<team> is a team mnemonic string we will create and use
 

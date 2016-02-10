@@ -31,6 +31,11 @@
   type: company 
   SummaryofInterest: Resilient and Fault Tolerant Distributed Energy Systems through Transactive Energy. Modeling of grid-Interactive EVs.
   introdoc-url: "./Partner_intros/Businovation.pdf"
+- name: "Caltech Resnick Institute"
+  url: "http://resnick.caltech.edu"
+  type: university
+  SummaryofInterest: TE theoretical and applied research on markets+controls and practice related to industry structural changes based on architectural considerations and policy and business factors.
+  introdoc-url: "" 
 - name: "Carnegie Mellon University"
   url: ""
   type: university
@@ -141,9 +146,19 @@
   type: government
   SummaryofInterest: 
   introdoc-url: ""
+- name: "Rowan University"
+  url: "www.rowan.edu"
+  type: University
+  SummaryofInterest: Work with ISO/IEC/IEEE P21451-1 Standard development for Network Capable Application Processors aligns well with the underlying fabric of smart, energy-aware devices communicating using well-defined protocols.
+  introdoc-url: ""
 - name: "Siemens"
   url: ""
   type: company
+  SummaryofInterest: 
+  introdoc-url: ""
+- name: "SUNY/Buffalo State"
+  url: "http://suny.buffalostate.edu"
+  type: University
   SummaryofInterest: 
   introdoc-url: ""
 - name: "Tata Consultancy Services"
@@ -156,6 +171,11 @@
   type: company
   SummaryofInterest: TE Retail Energy & Distribution Tariffs. TE retail subscriptions, spot transactions, & business/ regulatory model.
   introdoc-url: "./Partner_intros/TeMix.pdf"
+- name: "TNO"
+  url: "https://www.tno.nl/en/"
+  type: company
+  SummaryofInterest: 
+  introdoc-url: ""
 - name: "University of Maryland"
   url: ""
   type: university
