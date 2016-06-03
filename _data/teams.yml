@@ -81,7 +81,7 @@ team3:
 # team4
 team4:
     name:  Common Transactive Services
-    lead: William Cox	
+    lead: William Cox, EML and Shawn Chandler, Navigant	
     url: "https://groups.google.com/d/forum/transactive-energy-abstract-interoperation"
     ideas:
     - title: Align what is simulated with real TE message exchanges by finding common meanings across environments
