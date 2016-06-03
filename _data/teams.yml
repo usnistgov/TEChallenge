@@ -65,7 +65,7 @@ team3:
     - name: Cleanspark
     - name: TeMix
     - name: Univ. of Oklahoma
-    - name: Energy Mashup Lab
+    - name: The Energy Mashup Lab
     - name: General Microgrids
     - name: Tata Consultancy
     - name: MIT
@@ -80,18 +80,19 @@ team3:
     imageUrl: "/assets/Team-Microgrids-140x145.png"
 # team4
 team4:
-    name:  TE Interoperations and Abstract Interaction
-    lead: Shawn Chandler, William Cox	
+    name:  Common Transactive Services
+    lead: William Cox	
     url: "https://groups.google.com/d/forum/transactive-energy-abstract-interoperation"
     ideas:
     - title: Align what is simulated with real TE message exchanges by finding common meanings across environments
     partners:
     - name: Alliander
-    - name: Energy Mashup Lab
+    - name: The Energy Mashup Lab
     - name: Navigant
     - name: MACT
     - name: TeMix
     - name: Caltech Resnick Institute
+    - name: TNO 
     # worksheetUrl: "./team4/Team TE Interop Abstract Interax.pdf" 
     imageUrl: "/assets/Team-Common-Transactive-Services180x120.png"
 # team5
@@ -120,7 +121,7 @@ team6:
     partners:
     - name: OpenADR Alliance
     - name: Cleanspark
-    - name: EML
+    - name: The Energy Mashup Lab 
     - name: Alliander
     # worksheetUrl: "./team6/TeamTransactiveADR.pdf" 
     imageUrl: "/assets/Team-TransactiveADR-200x50.png"

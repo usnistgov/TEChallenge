@@ -41,6 +41,11 @@
   description: "AEP GridSmart Demonstration Technology Performance Report (see chapter 4)"
   category: document
   url: "https://www.smartgrid.gov/files/AEP_Ohio_DE-OE-0000193_Final_Technical_Report_06-23-2014.pdf"
+- name: "Common Transactive Services Paper 20160516"
+  description: "CTS Team report presented at the TE Systems Conference in Portland, May 2016"
+  category: document
+  url: https://github.com/EnergyMashupLab/TransactiveEnergyChallenge/tree/master/CommonTransactiveServices
+  team: team4
 - name: "TeamRefGridScenarios.pdf"
   description: "Reference Grid and Scenarios team project worksheet"
   category: "document"
@@ -62,13 +67,13 @@
   md5: 912cecb608485b4ba90678bd15e01b66
   sha512: 5ec9b6e1650ce9a6768c8d5987ba8f81e61e9f202b26e1256896bf9adfe9dcdaf225b80336a2087c32e1a9ac82c041e0338bb937d62bd36406fdc122f0eb62c2
   team: team3
-- name: "TeamTEInteropAbstractInterax.pdf"
-  description: "Abstract Interop team project worksheet"
-  category: "document"
-  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamTEInteropAbstractInterax.pdf
-  md5: dedcf6f57d6542a5dcdba0a77944ab9a
-  sha512: 702f032dc9fc4022469ab6f59789c0de0edc2e15265f7fc9c557ce78997551e14f49861bd4021683b71b9f969e8aab71702e14811dcad78c0818c867a68c0a82
-  team: team4
+#name: "TeamTEInteropAbstractInterax.pdf"
+#  description: "Abstract Interop team project worksheet"
+#  category: "document"
+#  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TeamTEInteropAbstractInterax.pdf
+#  md5: dedcf6f57d6542a5dcdba0a77944ab9a
+#  sha512: 702f032dc9fc4022469ab6f59789c0de0edc2e15265f7fc9c557ce78997551e14f49861bd4021683b71b9f969e8aab71702e14811dcad78c0818c867a68c0a82
+#  team: team4
 - name: "TeamRefBusRegModels.pdf"
   description: "Reference Business and Regulatory Models team project worksheet"
   category: "document"

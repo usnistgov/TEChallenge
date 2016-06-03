@@ -5,11 +5,9 @@ layout: page
 #Community
 The purpose of this page is to allow visitors and participants to see what teams are doing and how you might be involved. We expect that as you review the overviews of participant interests and team goals, you may see the makings of a new team. Please see below for how to suggest a new team effort. Comments and ideas are all welcome. 
 
-## Project Teams
-Information regarding the teams formed during (or since) the September kickoff is posted here. Organizations that have registered to participate in the Challenge may or may not be committed (yet) to a team. We expect that more teams will be formed in the coming months as other organizations hear about the Challenge and want to join. Organizations may participate in more than one team. Collaborators are welcome to join any team.  
+##Project Teams
+Information regarding the teams formed during and since the September kickoff is posted here. Organizations may participate in more than one team. Collaborators are welcome to join any team.  
  
-###Current teams:
-
 <table id="teams" style="width:100%">
 	{% for teams in site.data.teams %}
 	<tr><td colspan="3"><br/></td></tr>
@@ -26,7 +24,7 @@ Information regarding the teams formed during (or since) the September kickoff i
 			{% endfor %}
 			</ul>
 			<br/><br/>
-			<b>What's next:</b>
+			<b>Plans and Publications</b>
 			<ul style="list-style-type: none;">
 				{% for document in site.data.documents %}
 					{% if document.team == teams[0] %}
