@@ -228,3 +228,80 @@
   md5: 022da3f0c9be72a5ce67c4ceed699f88
   sha512: 247a89c0148a1323ad67ce6d9cc4f2792524763b57d8263a488185ccef98d74312ad20c3551e717db31327c456e576dbfc5baaf89382b28c7bc4e06b75fa066e
   team: team7
+- name: "CMU TE research presented at Portland TES2016"
+  description: "CMU TE research presented at Portland TES2016"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TES2016/Chin-Yen-Tee-CMU-TE.pptx
+  md5: dcdccdc0079aab9b78383b722d750640
+  sha512: 2c25f289a0a3326cf9b29d02517785bfdb3f796c505b01412648b26beed3d71ad996f08072fabad2cd6c5091f291406f73189fa0747a3904f7e57e08a175843c
+  team: team5
+- name: "Vanderbilt C2WT Co-simulation research presented at Portland TES2016"
+  description: "Vanderbilt C2WT Co-simulation research presented at Portland TES2016"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TES2016/Himanshu-Neema-C2WT-TE.pptx
+  md5: 9b44741b78033898ccae487d6eed7be5
+  sha512: 9a10eb06f51e920bfa774c92c099cab1eae9a5dc6e9b695980c36c67024b761fcc1fb275227e7d67aefd85d99958bb78bea1355867774852e6811882f1b8578d
+  team: team5
+- name: "PowerMatcher IoT team update at Portland TES2016"
+  description: "PM IoT Portland"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TES2016/Alexander-Krstulovic-PM-IoT.ppt
+  md5: 0982782c11c0f244bd47c03beb864a48
+  sha512: b831802e36847e01e7f605a5b99d76b9aa8cf37c3bc0e20e4d6af65091991d3d1c801ad829c35b5c55fb72c20b2a88ab2cf663c057f4f6fb99ff5de6194635a4
+  team: team7
+- name: "Transactive ADR team update at Portland TES2016"
+  description: "TADR Portland"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TES2016/Rolf-Bienert-Transactive-ADR.pptx
+  md5: 110326925c57fdbbd959b15d3c0298cf
+  sha512: 06102629681e5b5d14475506ecf748bec9d735c9c0600671103f46876bf76972c4228b0c9797d5bb11b77207470db0c38dd9fe3833b6ba2c176b4c1a2695c494
+  team: team6
+- name: "MicroGrids Demo team update at Portland TES2016"
+  description: "MG-Demo Portland"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TES2016/Jennifer-Worrall-MG-Demo.pptx
+  md5: 598297ffa24161c476fbc1a4bde5cac0
+  sha512: c75cac8f5acd2fcb4a7992726e7349b459a235e385cd89ba83f113755bef8f956378346e12bb59c828dc76e6a3c07eb207fa0da9d42e7132f11d6577c9263545
+  team: team3
+- name: "Common Transactive Services team update at Portland TES2016"
+  description: "CTS Portland"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TES2016/William-Cox-CTS.pptx
+  md5: 98debe7bb9d17d1d41063c0e70f6eec5
+  sha512: 9015b4bd1afaff3942a04bb16fed351178fa88028a24481f2bcdcd17ed70a59c29b81d4079c69cd4767c03410a9ea57f6eb41285feff2ba82c25b014627f651d
+  team: team4
+- name: "Business and Regulatory Models team update at Portland TES2016"
+  description: "BRM Portland"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/TES2016/John-Caldwell-Bus-Reg-Mod.pptx
+  md5: e69cabb4a22e73cf991aa437233b5446
+  sha512: 4a1b0ef5f94585cc1bc675631bd376d43ab221dcf3a14c0c9839ad78c9119aecfd85d88b592db47f731947d6420a2a424d7a05f2f6ec26b1daa2efa59911073c
+  team: team1
+- name: "Common Transactive Services white paper prepared for Portland TES2016"
+  description: "CTS Portland paper"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/CTS-paper-Portland.pdf
+  md5: 89fa45b140ea31f78fa64de3db7d372a
+  sha512: 26e88cc7430419fd1227cca02cc57024f23257af1cc7d8643bfd0ad453c65e070aa6d0a33835add92ce6cb742d2cf7a07e89b9c00251f6946d7aad23fa39202c
+  team: team 4
+- name: "Common Transactive Services Report May02 2016"
+  description: "CTS 20160502 Draft Report"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/CTS-Report-20160502.pdf
+  md5: e87dee63bd037932461161cf08c2991a
+  sha512: 4a1396e08dc74ba083a04a37e6aed126a995e1711988ea3ab94d8ffb28af1492d77dc455036fe401739b11026d6c2ad01c0f9b440aa2777620e6b6d5ccf4feb3
+  team: team 4
+- name: "Bus&Reg Models Portland TES2016 paper"
+  description: "BRM 20160506 Porland paper"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/Bus-Reg-Models-TES-paper-20160506.pdf
+  md5: 4bf318a304a22eb37847a635daa8c531
+  sha512: 3dbc1faf58da6eba1991b85afddee3d6906a4e6a66c170b9987635764f109d3e1ffe2a6f3856413a3cf2f9cf800b658587ade00e58a70028c5ef6c471b4f129c
+  team: team1
+- name: "Vanderbilt TE co-sim platform research paper TES2016"
+  description: "Neema Portland paper"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/Himanshu-TES-co-sim-platform-paper.pdf
+  md5: c60d4ab15ec617726f0272e87a9b77b7
+  sha512: 3586dc9a8cde4035cc2ca2514e08fb9c53bd3fe90608d2bdab19d51fbbb4f386949e674b2315d5c4a0cd8c2bd60b99a3f7ac686a22f19c71e75540762558e99c
+  team: team5
