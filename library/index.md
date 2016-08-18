@@ -2,7 +2,7 @@
 title: Transactive Energy Library
 layout: page
 ---
-#Library
+# Library
 
 ---
 <h2>Transactive Energy Library</h2>

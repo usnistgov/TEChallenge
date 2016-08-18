@@ -2,19 +2,19 @@
 title: TE Challenge Tool Chest
 layout: page
 ---
-#TE Challenge Tool Chest
+# TE Challenge Tool Chest
 
-##Modeling and Simulation Tools
+## Modeling and Simulation Tools
 
 Modeling and simulation tools and platforms for grid simulations were identified at our TE Challenge Preparatory Workshop.  Some of these tools may be useful for transactive grid simulations (and co-simulations). The table of tools in our Tool Chest is based on input from our workshop attendees. The table provides a short description of each tool based on the owners own claims from the tool website. Those who think a tool might be useful can follow the link to get more information. TE Challenge participants may provide links to other tools and additional information to add to this table. 
 
-###>>   [Table of Tools](./toolstable)
+### >>   [Table of Tools](./toolstable)
 
-##Data sets
+## Data sets
 
 If you know of publicly available data sets, please send us a link so we can add to the Tool Chest.
 
-##Baseline Scenarios
+## Baseline Scenarios
 
 In order to have results that are more comparable between teams, allowing results to be more easily integrated, with common resources, objectives and metrics, a  set of baseline scenarios is being prepared in a collaborative process. 
 
@@ -23,7 +23,7 @@ References:
   * [Basic scenarios](./files/TE_Challenge_Scenarios_20150728.docx)
   * Detailed scenarios (Project info posting TBD)
 
-##FAQ
+## FAQ
 
 **Q. How do organizations participate--where's the funding?**
 

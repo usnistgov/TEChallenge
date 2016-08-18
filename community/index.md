@@ -2,10 +2,10 @@
 title: TE Challenge Community
 layout: page
 ---
-#Community
+# Community
 The purpose of this page is to allow visitors and participants to see what teams are doing and how you might be involved. We expect that as you review the overviews of participant interests and team goals, you may see the makings of a new team. Please see below for how to suggest a new team effort. Comments and ideas are all welcome. 
 
-##Project Teams
+## Project Teams
 Information regarding the teams formed during and since the September kickoff is posted here. Organizations may participate in more than one team. Collaborators are welcome to join any team.  
  
 <table id="teams" style="width:100%">
@@ -58,7 +58,7 @@ Information regarding the teams formed during and since the September kickoff is
 	{% endfor %}
 </table>
 
-##Participants
+## Participants
 A participating organization is one that has joined (communicated required information via the Join page, and also participating in some team effort). Participant names are followed by short summaries of participant interests in the Challenge, and pdf links (when available) introduce the organization ideas and experience relative to the Challenge. Perhaps there is another organization with interests similar to yours and a team effort can be formed around that mutual interest to advance TE and the goals of the TE Challenge. 
 
 <ul>
@@ -84,6 +84,6 @@ A participating organization is one that has joined (communicated required infor
 	{% endfor %}
 </ul>
 
-##Have an idea for a new team, comment, or something else to share with us?
+## Have an idea for a new team, comment, or something else to share with us?
 
-###>><a href="mailto:TEChallenge-info@nist.gov ?subject=TEChallenge--Ideas and comments &body=Hi,%0A%0A(Please send us your ideas and comments and new team suggestions. If you want to join an existing team, then click on the info for that team to get connected, and also go to the Join page to register for the Challenge.) %0A%0AThanks,%0AYour name%0AYour phone%0AYour organization" >Let us know!</a><<
+### >><a href="mailto:TEChallenge-info@nist.gov ?subject=TEChallenge--Ideas and comments &body=Hi,%0A%0A(Please send us your ideas and comments and new team suggestions. If you want to join an existing team, then click on the info for that team to get connected, and also go to the Join page to register for the Challenge.) %0A%0AThanks,%0AYour name%0AYour phone%0AYour organization" >Let us know!</a><<
