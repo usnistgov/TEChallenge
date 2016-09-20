@@ -305,3 +305,10 @@
   md5: c60d4ab15ec617726f0272e87a9b77b7
   sha512: 3586dc9a8cde4035cc2ca2514e08fb9c53bd3fe90608d2bdab19d51fbbb4f386949e674b2315d5c4a0cd8c2bd60b99a3f7ac686a22f19c71e75540762558e99c
   team: team5
+- name: "TE Business and Regulatory Models paper Sep20 2016"
+  description: "Sep 20 2016 version for Phase I Capstone"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/TE-Bus&Reg-Models-Paper-20160920.pdf
+  md5: 2a3681f2a4cff79fcd62acff872365be
+  sha512: a9fd61ce20a7e1f41596f01505d1d20c8bce6e8ffaa16f0ce341963dd741154f86e53dff69b09d2c1ab75e321a4b3ff8e7c29af6f9079dbe439a80b0fe83cdaf
+  team: team1
