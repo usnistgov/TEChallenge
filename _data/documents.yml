@@ -308,7 +308,7 @@
 - name: "TE Business and Regulatory Models paper Sep20 2016"
   description: "Sep 20 2016 version for Phase I Capstone"
   category: "document"
-  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/TE-Bus&Reg-Models-Paper-20160920.pdf
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/TE-Bus-Reg-Models-Paper-20160920.pdf
   md5: 2a3681f2a4cff79fcd62acff872365be
   sha512: a9fd61ce20a7e1f41596f01505d1d20c8bce6e8ffaa16f0ce341963dd741154f86e53dff69b09d2c1ab75e321a4b3ff8e7c29af6f9079dbe439a80b0fe83cdaf
   team: team1
