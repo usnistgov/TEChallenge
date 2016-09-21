@@ -312,3 +312,17 @@
   md5: 2a3681f2a4cff79fcd62acff872365be
   sha512: a9fd61ce20a7e1f41596f01505d1d20c8bce6e8ffaa16f0ce341963dd741154f86e53dff69b09d2c1ab75e321a4b3ff8e7c29af6f9079dbe439a80b0fe83cdaf
   team: team1
+- name: "TEChallenge 20160920 webinar slides"
+  description: "TE Challenge Phase I Capstone webinar 20160920 slides"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/TEC20160920-webinar-final.pdf
+  md5: 7c52101482cbabafb93c8c3cc0ca32ab
+  sha512: 324388d75f8bcf49d8ee972d34111c9358946c0f588eb1003ca102a6c33153feee8863e290e9e1e81e2b0c806f56d7650aec85e915d2351d0b05c9fa0531d686
+  team: NIST
+- name: "TEChallenge Energy Mgmt in MG Systems"
+  description: "TE Challenge 2016 MG Demo team paper for Portland TE Systems Conference"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/tes2016_microgrids_Final.pdf
+  md5: 7c2b94220c8d297abe5ef34faec8843f
+  sha512: 7a047a6762a4a71a31eecce88e345d9c3d7c11657e439604650bf62453547a29dea892b2104ade88ac77e357089a1fd030ee1523828d7f983711db6b9d04bcbf
+  team: team3
