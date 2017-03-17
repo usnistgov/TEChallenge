@@ -5,8 +5,13 @@ layout: page
 # Community
 The purpose of this page is to allow visitors and participants to see what teams are doing and how you might be involved. We expect that as you review the overviews of participant interests and team goals, you may see the makings of a new team. Please see below for how to suggest a new team effort. Comments and ideas are all welcome. 
 
-## Project Teams
-Information regarding the teams formed during and since the September kickoff is posted here. Organizations may participate in more than one team. Collaborators are welcome to join any team.  
+## Phase II Project Teams
+Phase II Launches April 20 and Phase II teams will be updated as they join or are formed. 
+Organizations may participate in more than one team. Collaborators are welcome to join any team.
+
+## Phase I Project Teams
+Information regarding the 2016 Phase I teams is posted here. 
+  
  
 <table id="teams" style="width:100%">
 	{% for teams in site.data.teams %}

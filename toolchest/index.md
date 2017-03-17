@@ -4,6 +4,10 @@ layout: page
 ---
 # TE Challenge Tool Chest
 
+## Phase II Scenarios
+
+This space will be updated with information and access to the strawman TE Challenge Scenario (available after April 20) and then final collaboratively developed scenario (available in July).
+
 ## Modeling and Simulation Tools
 
 Modeling and simulation tools and platforms for grid simulations were identified at our TE Challenge Preparatory Workshop.  Some of these tools may be useful for transactive grid simulations (and co-simulations). The table of tools in our Tool Chest is based on input from our workshop attendees. The table provides a short description of each tool based on the owners own claims from the tool website. Those who think a tool might be useful can follow the link to get more information. TE Challenge participants may provide links to other tools and additional information to add to this table. 
@@ -27,7 +31,7 @@ References:
 
 **Q. How do organizations participate--where's the funding?**
 
-A. Many groups are attaching their participation to existing projects, teaming up with other organizations to gain the benefits of collaboration with shared goals. Other teams find funding from one team member or another. We hope that as the Challenge proceeds that some other funding sources will become available.
+A. Many groups are attaching their participation to existing projects, teaming up with other organizations to gain the benefits of collaboration with shared goals. Other teams find funding from one team member or another. 
 
 **Q. What kind of reporting is required?**
 
@@ -39,10 +43,8 @@ A. Our primary goal is to give a platform for teams to form and do exciting work
 
 **Q. What are the IPR-sharing requirements?**
 
-A. Only share what you want to make public. Of course, the more that a team shares, the more everyone else can learn and the greater the benefit to moving TE forward as a whole. 
-It is our goal to have an ongoing dialog and up to date information to serve Challenge participants and strengthen the Challenge process as it advances. The collaboration site will host a FAQ, TE Challenge announcements and updates, links to relevant outside TE publications, etc.
-Reporting
+A. All information and results provided as part of the Challenge will be in the public domain. This does not preclude the use of proprietary techniques or tools to achieve the results. Team leaders will be asked to manage team IPR issues, and each team can decide for themselves how to handle contributions to the team. 
 
 **Q. What is the long-term goal for the Challenge?**
 
-A. NIST has been working on Smart Grid standards interoperability for 6+ years. TE is about responsive demand for the next generation grid. We see the development of TE as slow process and this TE Challenge as Phase I of perhaps a multi-phase effort. Phase II would be more focused on specific projects that are identified as part of Phase I. Maybe 2+ years from now we will see what TE approaches work and will have utilities piloting these approaches. 
+A. NIST has been working on Smart Grid standards interoperability for 6+ years. TE is about responsive demand for the next generation grid. We see the development of TE as slow process and this TE Challenge as on step to work toward knowledge of how different TE approaches work, and which may then lead to actual utility implementations. 
