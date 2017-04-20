@@ -12,4 +12,4 @@ When you have edited to your hearts content, run the following command to spin u
 This will allow you to view in your web browser the site as:
 http://localhost:4000/TEChallenge/
 
-When you are happy with your changes, commit and push up to your fork. Then do a pull request to ask the site managers to pull your changes into the main line.
+When you are happy with your changes, commit and push up to your fork. Then do a pull request to ask the site managers to pull your changes into the main line. 
