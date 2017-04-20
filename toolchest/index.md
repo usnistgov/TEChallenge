@@ -4,9 +4,21 @@ layout: page
 ---
 # TE Challenge Tool Chest
 
-## Phase II Scenarios
+## Phase II Challenge Scenario Development
 
-This space will be updated with information and access to the strawman TE Challenge Scenario (available after April 20) and then final collaboratively developed scenario (available in July).
+TE Challenge teams will work together to agree on a common Challenge Scenario and common metrics for reporting results. Teams will simulate the agreed-on scenario and report using the agreed upon metrics. As part of the process, teams will be encouraged to use a common grid topology to aid in comparison of results, but it is not required that every team use the same grid. It is likely that we will end up with a small collection of shared grid definitions, where one grid may be more useful to a team than another depending on the research goals of each team. 
+
+Through a series of meetings (May-July 2017), teams will take the following actions. The result of this collaboration will be to better understand the common TE co-simulation model, and to help us to produce TE simulation results that can be more easily compared and which together will increase our understanding of the useful application of TE methods.
+
+  * Review the Phase I common platform model (platform-agnostic model for interoperable TE co-simulation) and consider how different teams might take a step toward implementing some part of the model in their research;
+  * Review and agree on the Challenge Scenario narrative;
+  * Review available grid definitions that we might use or modify for use by teams;
+  * Discuss and agree on the set of simulations we will perform using the Challenge Scenario;
+  * Develop a set of common metrics to be used to report team simulation results, that allows comparing results of TE co-simulations;
+  * Share results of team efforts to implement the Challenge Scenario.
+
+More details about the process, and each of the bullet items above, along with meeting schedule for the collaborative development, is included in the 
+<a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECCollabScenDevp20170420.docx">TE Challenge Phase II Collaborative Scenario Development</a> document.
 
 ## Modeling and Simulation Tools
 

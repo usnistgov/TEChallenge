@@ -326,3 +326,10 @@
   md5: 7c2b94220c8d297abe5ef34faec8843f
   sha512: 7a047a6762a4a71a31eecce88e345d9c3d7c11657e439604650bf62453547a29dea892b2104ade88ac77e357089a1fd030ee1523828d7f983711db6b9d04bcbf
   team: team3
+- name: "TE Challenge Scenario Collaborative Development Process"
+  description: "The process teams will use to agree on the Challenge Scenario and use of that"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECCollabScenDevp20170420.docx
+  md5: 29c86b68fa3d546c478b2679e6300a59
+  sha512: 3a652c5c26ef095d2df5afd36890e45e0dba6e4a04a5bc2fc04fd041baaa2c2998ad67790d38b5f56df17fb992aaff728c4d1beddd401510e28dbd86afd80ce2
+  team: 
