@@ -333,3 +333,10 @@
   md5: 29c86b68fa3d546c478b2679e6300a59
   sha512: 3a652c5c26ef095d2df5afd36890e45e0dba6e4a04a5bc2fc04fd041baaa2c2998ad67790d38b5f56df17fb992aaff728c4d1beddd401510e28dbd86afd80ce2
   team: 
+- name: "Transactive Energy Conference II Kickoff video"
+  description: "Transactive Energy Conference II Kickoff video"
+  category: "video"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/techallenge/videos/TransactiveEnergyConferenceIIKickoff_20170420.mp4
+  md5: aee3673d527e4c02f46acbd496783382
+  sha512: 4665068bb805ec2742cc2f42e9f3df91e863486b11a5c5bf851bd9080310b08c9570849b1bb532447a3bcc998fd601fa8b06d4d6575a6fc36d9988cf4465f206
+  team: techallenge
