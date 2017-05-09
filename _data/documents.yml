@@ -333,28 +333,35 @@
   md5: 29c86b68fa3d546c478b2679e6300a59
   sha512: 3a652c5c26ef095d2df5afd36890e45e0dba6e4a04a5bc2fc04fd041baaa2c2998ad67790d38b5f56df17fb992aaff728c4d1beddd401510e28dbd86afd80ce2
   team: 
-- name: "TE Challenge Phase II Launch Webinar slides"
+- name: "TE Challenge Phase II Launch Webinar slides PPT"
   description: "TE Challenge Phase II Launch Webinar slides"
   category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2LaunchWebinar_slides20170420.pptx
   md5: dbf61e1ef45b8a275c093afe2d426170
   sha512: e5b68f76a49711f5a80bf01f6cbba0309644b97a9b26296ba3c32bba275bdcf6fe81f6c574f87ae5dc40e5a0755dbd75be537c02c5878c657f79bba079733a24
   team: 
-- name: "TE Challenge Phase II Team Collaboration Meeting#1 20170509"
-  description: "First team meeting to work on Challenge Scenario for Phase II collaboration"
-  category: "presentation"
-  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170509.pptx
-  md5: b2a02b30cfbd5308e185b49f008fbca6
-  sha512: ae5a24c506bd797e5c29f7a5e0798b8f41b4f02efe1cac5ac8f5f1de8961f32a2ba62d324fc261e09aa9dc9c38f5f07e604bde17748df956f8ba6f1db84f27d0
-  team: 
-- name: "TE Challenge Phase II Launch Webinar slides"
+- name: "TE Challenge Phase II Launch Webinar slides PDF"
   description: "TE Challenge Phase II Launch Webinar slides"
   category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2LaunchWebinar_slides20170420.pdf
   md5: 6d871c8188aca0432beaa66d97b70f74
   sha512: ca0e9e7112cdd4dbcf3d66da5369ec921510109cd9e5a143a3f00158f99fcb8a6e18b478c7c6533665986c9737e5508e048c3b7764bd3dc150d482d823f29de2
   team: 
-- name: "TE Challenge Phase II Team Collaboration Meeting#1 20170509"
+- name: "Transactive Energy Conference II Kickoff video"
+  description: "Transactive Energy Conference II Kickoff video"
+  category: "video"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/techallenge/videos/TransactiveEnergyConferenceIIKickoff_20170420.mp4
+  md5: aee3673d527e4c02f46acbd496783382
+  sha512: 4665068bb805ec2742cc2f42e9f3df91e863486b11a5c5bf851bd9080310b08c9570849b1bb532447a3bcc998fd601fa8b06d4d6575a6fc36d9988cf4465f206
+  team: techallenge
+- name: "TE Challenge Phase II Team Collaboration Meeting#1 20170509 PPT"
+  description: "First team meeting to work on Challenge Scenario for Phase II collaboration"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170509.pptx
+  md5: b2a02b30cfbd5308e185b49f008fbca6
+  sha512: ae5a24c506bd797e5c29f7a5e0798b8f41b4f02efe1cac5ac8f5f1de8961f32a2ba62d324fc261e09aa9dc9c38f5f07e604bde17748df956f8ba6f1db84f27d0
+  team: 
+- name: "TE Challenge Phase II Team Collaboration Meeting#1 20170509 PDF"
   description: "First team meeting to work on Challenge Scenario for Phase II collaboration"
   category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170509.pdf
