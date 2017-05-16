@@ -368,3 +368,10 @@
   md5: a4aae6bfdb9159d91ec2a7edf18239c0
   sha512: fb5528557057ef4f2c0a1deeeba1e063825d073f7ca915ef9993e9dfcf4b1c00efadd1b64459c097b6edf35a09ce9f989eeaa41303f98745fbd302f13cf0e2e8
   team: 
+- name: "TE Challenge Phase II Team Collaboration Meeting #2"
+  description: "Challenge scenario and metrics discussion continued"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/TECP2TeamCollab20170516.pdf
+  md5: 0f1a476855f292567f633f9f7b6869aa
+  sha512: 4983c91bf51e14c25b44be47b5e87ae4bc5c9bd009f2be61ee9366783b77fc2f773d5993e84c34552e6ef565cf9e2057f9796b4aecf8df0429e3678a5be87351
+  team: team8
