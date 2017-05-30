@@ -375,3 +375,10 @@
   md5: 0f1a476855f292567f633f9f7b6869aa
   sha512: 4983c91bf51e14c25b44be47b5e87ae4bc5c9bd009f2be61ee9366783b77fc2f773d5993e84c34552e6ef565cf9e2057f9796b4aecf8df0429e3678a5be87351
   team: team8
+- name: "TE Challenge Phase II Team Collaboration Meeting #3"
+  description: "May 30 2017 TE Challenge Collab Team meeting--IEEE 8500 feeder intro and Portland workshop prep"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170530.pdf
+  md5: 6af18bd185c1f05a313224e99cf203c2
+  sha512: e40e948de21e23893625fba7b61f8db25c23aa9647d5d18edff9466e948f4d6e2900420cebbfd3cb3b9fac5f66ef082e6346e08a757acd286814f8b8e5eb96e6
+  team: team8
