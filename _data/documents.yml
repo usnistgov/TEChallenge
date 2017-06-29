@@ -389,3 +389,24 @@
   md5: 9778753a00edae27e5d4207a85145195
   sha512: dc4939ff213c6653fdf456d64fd6b83bd24bad46ed49228ed5e1fb1ef3dd15305c0f2aeda88fcd7dc173aeccb471bc536c26058790ba54875662cca9bf6ad4ac
   team: team8
+- name: "TE Challenge Overview"
+  description: "Plenary intro to NIST TE Challenge at Portland TE Systems Conference"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2OverviewTESCJune2017Portland.pdf
+  md5: c42dc82e013b0ab04a2ad004e4113a82
+  sha512: 0d472e0546bde808b4887e9478e4ae4aa805793d0f9b2e37793a7c00900f0e4635a302956f523d5e2cd5a730bec02c4a6f5d6981476aa00f0793703e86d7ec33
+  team: team8
+- name: "TESC TE Challenge Worshop"
+  description: "NIST TE CHallenge Workshop Portland TESC June 2017"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2-PortlandTESCworkshop20170614.pdf
+  md5: 35417e74eb45143eb210a1d5a90b6281
+  sha512: 118427b5308eba340dabdc8bea81f9408db366d12d39e5f802b4703e01a51b99bec39a24e45b628b0c7578f608dc96c506acd5a2e41fcc7853b8c8b9d65bc41d
+  team: team8
+- name: "The Policymaker's Toolkit--Vital Questions to be Addressed about Proposed TE Systems"
+  description: "TE Challenge Phase I Bus&Reg team white paper presented at Portland TESC June 2017"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/BusRegTeam-PolicymakerToolkitPaper-Jun2017.pdf
+  md5: 6169be039872b92c65c7df9537b1c1ee
+  sha512: fbfbc6618d50a07a9941dff33c91535440766f025aad180ccf5fa4163fc417ebaa2e2d672be49be3b695977cdc2c731ebee9a40f955ba8804ff8b53a9876ab41
+  team: team8
