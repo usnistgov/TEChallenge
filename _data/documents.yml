@@ -389,15 +389,15 @@
   md5: 9778753a00edae27e5d4207a85145195
   sha512: dc4939ff213c6653fdf456d64fd6b83bd24bad46ed49228ed5e1fb1ef3dd15305c0f2aeda88fcd7dc173aeccb471bc536c26058790ba54875662cca9bf6ad4ac
   team: team8
-- name: "TE Challenge Overview"
+- name: "TE Challenge Phase II Overview"
   description: "Plenary intro to NIST TE Challenge at Portland TE Systems Conference"
   category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2OverviewTESCJune2017Portland.pdf
   md5: c42dc82e013b0ab04a2ad004e4113a82
   sha512: 0d472e0546bde808b4887e9478e4ae4aa805793d0f9b2e37793a7c00900f0e4635a302956f523d5e2cd5a730bec02c4a6f5d6981476aa00f0793703e86d7ec33
   team: team8
-- name: "TESC TE Challenge Worshop"
-  description: "NIST TE CHallenge Workshop Portland TESC June 2017"
+- name: "TESC TE Challenge Phase II June 2017 Workshop"
+  description: "NIST TE Challenge Phase II Workshop Portland TESC June 2017"
   category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2-PortlandTESCworkshop20170614.pdf
   md5: 35417e74eb45143eb210a1d5a90b6281
@@ -409,4 +409,11 @@
   url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/BusRegTeam-PolicymakerToolkitPaper-Jun2017.pdf
   md5: 6169be039872b92c65c7df9537b1c1ee
   sha512: fbfbc6618d50a07a9941dff33c91535440766f025aad180ccf5fa4163fc417ebaa2e2d672be49be3b695977cdc2c731ebee9a40f955ba8804ff8b53a9876ab41
+  team: team8
+- name: "TE Challenge Phase II Team Collaboration Meeting #6"
+  description: "Finalizing Grid and Metrics"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170628.pdf
+  md5: 7c9cfb54b9c1004880d1901f9840bece
+  sha512: 131136ea02160cf5fb2356102f33d203fe000ad0ead28c89865f3074306c48d6b95a2e817f1adb754d0e0e90a140a9ed4702539df48618c4df72b9499d2fbc72
   team: team8
