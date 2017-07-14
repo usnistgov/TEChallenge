@@ -8,17 +8,16 @@ The purpose of this page is to allow visitors and participants to see what teams
 ## Phase II Project Teams
 Phase II officially launched on April 20 and Phase II teams will be updated as they join or are formed. 
 Organizations may participate in more than one team. Collaborators may be welcome to join an existing team.
-
-### Pacific Northwest National Laboratory (PNNL)
-<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/PNNL-TEC2-intro.pdf">HERE</a></li>
-
-### Massachusetts Institute of Technology (MIT)
-### National Renewable Energy Laboratory (NREL)
-### Vanderbilt University
-### Dartmouth University
-### Tata Consultancy Services (TCS)
-### University of Puerto Rico (UPR)
-
+<li>
+	### Pacific Northwest National Laboratory (PNNL)
+	<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/PNNL-TEC2-intro.pdf">HERE</a></li>
+	### Massachusetts Institute of Technology (MIT)
+	### National Renewable Energy Laboratory (NREL)
+	### Vanderbilt University
+	### Dartmouth University
+	### Tata Consultancy Services (TCS)
+	### University of Puerto Rico (UPR)
+</li>
 
 ## Phase I Project Teams
 Information regarding the 2016 Phase I teams is posted here. 
