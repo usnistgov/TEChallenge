@@ -8,8 +8,8 @@ layout: page
 
 TE Challenge teams have worked together to agree on: 
 
-### >> a common <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TEChallengeScenario20170714.docx">Challenge Scenario</a>, and 
-### >><a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECMetrics20170714.docx">Common Metrics</a> for reporting results
+###   >> a common <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TEChallengeScenario20170714.docx">Challenge Scenario</a>, and 
+###   >> <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECMetrics20170714.docx">Common Metrics</a> for reporting results
 
 Teams will simulate the agreed-on scenario and report using the agreed upon metrics. As part of the process, teams will be encouraged to use the identified common grid topology to aid in comparison of results, but it is not required that every team use the same grid. Teams may use a reduced version of the grid, modified grid, or even a different grid as is necessary to implement the use case on the team simulation platform and as needed to fit the team goals for TE methodology or other research goals of a team. 
 
