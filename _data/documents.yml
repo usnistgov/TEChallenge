@@ -417,3 +417,31 @@
   md5: 7c9cfb54b9c1004880d1901f9840bece
   sha512: 131136ea02160cf5fb2356102f33d203fe000ad0ead28c89865f3074306c48d6b95a2e817f1adb754d0e0e90a140a9ed4702539df48618c4df72b9499d2fbc72
   team: team8
+- name: "TE Challenge Common Metrics"
+  description: "Common metrics for reporting simulation results July 14, 2017"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECMetrics20170714.docx
+  md5: 09cda5f901d0db86222c09caf678b2e8
+  sha512: 325e067d53bd2c3659ccbf07f53d10ce0eb7e281ed3e6cb64872e5f14827260d1428dd531874bf62dc67607e10ce57637c09070f48c4d7e1fed638230d8bd68a
+  team: team8
+- name: "TE Challenge Scenario 20170714"
+  description: "Description of Challenge components agreed on by teams"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TEChallengeScenario20170714.docx
+  md5: eeed501fa97ab76c7b57a24cfd842e93
+  sha512: abae66ca7ed75a36a5f5dfc5a43393ddf8777a29a6ee33bb46c2de6d36accb5e45dcefd8804f3af5b1c3dc2211b022b6848705e9dfc1acdbd0ae773f7ca143c0
+  team: team8
+- name: "TE Challenge Team intro slide"
+  description: "For teams to use to introduce their team plans on collaboration site"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECTeamSummarySlideTemplateJuly2017.pptx
+  md5: dfebaec886fca6f0ac05ea4901196cdc
+  sha512: 45728def249b36f72c8ee4003c250f18a8e34287b30cf2a602f3e028877300bab76f2700ae03ce16ae281b02a27413939b15d4041eea4c65bab4d252d29e78e6
+  team: team8
+- name: "TE Challenge PNNL Team intro slide"
+  description: "Summary of PNNL project plans"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/PNNL-TEC2-intro.pdf
+  md5: 2fe128dc1b100b27e2698bfc5a474ef1
+  sha512: 84df697e2f3c7e421c98328ff28a60a1d2b5725080defb4f8ad7161df6e424ced1abce8570316c521f7abb23de7b3117159a58f04f3e328865e191b9fe738ec9
+  team: team8
