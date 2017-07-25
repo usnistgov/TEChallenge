@@ -12,12 +12,15 @@ Organizations may participate in more than one team. Collaborators may be welcom
 ### Pacific Northwest National Laboratory (PNNL)
 <li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/PNNL-TEC2-intro.pdf">HERE</a></li>
 ### Massachusetts Institute of Technology (MIT)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/MIT-TEC2-intro.pdf">HERE</a></li>
 ### National Renewable Energy Laboratory (NREL)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/NREL-TEC2-intro.pdf">HERE</a></li>
 ### Vanderbilt University
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/Vanderbilt-TEC2-intro.pdf">HERE</a></li>
+### University of Puerto Rico (UPR)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/UPRM-TEC2-intro.pdf">HERE</a></li>
 ### Dartmouth University
 ### Tata Consultancy Services (TCS)
-### University of Puerto Rico (UPR)
-
 
 ## Phase I Project Teams
 Information regarding the 2016 Phase I teams is posted here. 
