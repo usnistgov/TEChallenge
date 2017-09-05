@@ -473,3 +473,10 @@
   md5: 7adbb099db3ccb0f8eada05bfdca53f9
   sha512: 9fea4603fd58e9b4d9fbf8b29f25053fde2d348ace8ad52c85e747fa24e6b2bf6334d15efd1562147e6dba493faa435ea2c4d9c4a480ad0049e540ad01674087
   team: team8
+- name: "TEC2 summary slide for TCS"
+  description: "participation details"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/TCS-TEC2-intro.pdf
+  md5: e4de8daf494c52ac455f1944fb702576
+  sha512: bbd5924aaaf56b57a62ea330c0808d1c78406b640d52f66757278b782023eeacffd9a30b16d92f319c873d9113b712dce65b7306b613c87ac1e68037766cb9bc
+  team: team8
