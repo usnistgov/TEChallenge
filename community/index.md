@@ -3,11 +3,38 @@ title: TE Challenge Community
 layout: page
 ---
 # Community
-The purpose of this page is to allow visitors and participants to see what teams are doing and how you might be involved. We expect that as you review the overviews of participant interests and team goals, you may see the makings of a new team. Please see below for how to suggest a new team effort. Comments and ideas are all welcome. 
+The purpose of this page is to allow visitors and participants to see what teams are doing and how you might be involved. We expect that as you review the overviews of participant teams and their plans, you may consider how to cooperate with an existing team or start a new team. Comments and ideas are all welcome. 
 
 ## Phase II Project Teams
 Phase II officially launched on April 20 and Phase II teams will be updated as they join or are formed. 
-Organizations may participate in more than one team. Collaborators are welcome to join any team.
+Organizations may participate in more than one team. Collaborators may be welcome to join an existing team.
+
+### Pacific Northwest National Laboratory (PNNL)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/PNNL-TEC2-intro.pdf">HERE</a></li>
+
+### Massachusetts Institute of Technology (MIT)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/MIT-TEC2-intro.pdf">HERE</a></li>
+
+### National Renewable Energy Laboratory (NREL)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/NREL-TEC2-intro.pdf">HERE</a></li>
+
+### Tata Consultancy Services (TCS)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/TCS-TEC2-intro.pdf">HERE</a></li>
+
+### Vanderbilt University
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/Vanderbilt-TEC2-intro.pdf">HERE</a></li>
+
+### University of Puerto Rico (UPR)
+<li>Introduction to Team project <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/UPRM-TEC2-intro.pdf">HERE</a></li>
+
+### Dartmouth University
+
+### Navigant
+
+### Oracle
+
+###
+
 
 ## Phase I Project Teams
 Information regarding the 2016 Phase I teams is posted here. 

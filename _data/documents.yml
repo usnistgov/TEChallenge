@@ -333,6 +333,20 @@
   md5: 29c86b68fa3d546c478b2679e6300a59
   sha512: 3a652c5c26ef095d2df5afd36890e45e0dba6e4a04a5bc2fc04fd041baaa2c2998ad67790d38b5f56df17fb992aaff728c4d1beddd401510e28dbd86afd80ce2
   team: 
+- name: "TE Challenge Phase II Launch Webinar slides PPT"
+  description: "TE Challenge Phase II Launch Webinar slides"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2LaunchWebinar_slides20170420.pptx
+  md5: dbf61e1ef45b8a275c093afe2d426170
+  sha512: e5b68f76a49711f5a80bf01f6cbba0309644b97a9b26296ba3c32bba275bdcf6fe81f6c574f87ae5dc40e5a0755dbd75be537c02c5878c657f79bba079733a24
+  team: 
+- name: "TE Challenge Phase II Launch Webinar slides PDF"
+  description: "TE Challenge Phase II Launch Webinar slides"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2LaunchWebinar_slides20170420.pdf
+  md5: 6d871c8188aca0432beaa66d97b70f74
+  sha512: ca0e9e7112cdd4dbcf3d66da5369ec921510109cd9e5a143a3f00158f99fcb8a6e18b478c7c6533665986c9737e5508e048c3b7764bd3dc150d482d823f29de2
+  team: 
 - name: "Transactive Energy Conference II Kickoff video"
   description: "Transactive Energy Conference II Kickoff video"
   category: "video"
@@ -340,3 +354,129 @@
   md5: aee3673d527e4c02f46acbd496783382
   sha512: 4665068bb805ec2742cc2f42e9f3df91e863486b11a5c5bf851bd9080310b08c9570849b1bb532447a3bcc998fd601fa8b06d4d6575a6fc36d9988cf4465f206
   team: techallenge
+- name: "TE Challenge Phase II Team Collaboration Meeting#1 20170509 PPT"
+  description: "First team meeting to work on Challenge Scenario for Phase II collaboration"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170509.pptx
+  md5: b2a02b30cfbd5308e185b49f008fbca6
+  sha512: ae5a24c506bd797e5c29f7a5e0798b8f41b4f02efe1cac5ac8f5f1de8961f32a2ba62d324fc261e09aa9dc9c38f5f07e604bde17748df956f8ba6f1db84f27d0
+  team: 
+- name: "TE Challenge Phase II Team Collaboration Meeting#1 20170509 PDF"
+  description: "First team meeting to work on Challenge Scenario for Phase II collaboration"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170509.pdf
+  md5: a4aae6bfdb9159d91ec2a7edf18239c0
+  sha512: fb5528557057ef4f2c0a1deeeba1e063825d073f7ca915ef9993e9dfcf4b1c00efadd1b64459c097b6edf35a09ce9f989eeaa41303f98745fbd302f13cf0e2e8
+  team: 
+- name: "TE Challenge Phase II Team Collaboration Meeting #2"
+  description: "Challenge scenario and metrics discussion continued"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/TECP2TeamCollab20170516.pdf
+  md5: 0f1a476855f292567f633f9f7b6869aa
+  sha512: 4983c91bf51e14c25b44be47b5e87ae4bc5c9bd009f2be61ee9366783b77fc2f773d5993e84c34552e6ef565cf9e2057f9796b4aecf8df0429e3678a5be87351
+  team: team8
+- name: "TE Challenge Phase II Team Collaboration Meeting #3"
+  description: "May 30 2017 TE Challenge Collab Team meeting--IEEE 8500 feeder intro and Portland workshop prep"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170530.pdf
+  md5: 6af18bd185c1f05a313224e99cf203c2
+  sha512: e40e948de21e23893625fba7b61f8db25c23aa9647d5d18edff9466e948f4d6e2900420cebbfd3cb3b9fac5f66ef082e6346e08a757acd286814f8b8e5eb96e6
+  team: team8
+- name: "TE Challenge Phase II Team Collaboration Meeting #4"
+  description: "June 6 discussion of 8500 feeder and key issues preparing Challenge Scenario"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/library/TECP2TeamCollab20170606.pdf
+  md5: 9778753a00edae27e5d4207a85145195
+  sha512: dc4939ff213c6653fdf456d64fd6b83bd24bad46ed49228ed5e1fb1ef3dd15305c0f2aeda88fcd7dc173aeccb471bc536c26058790ba54875662cca9bf6ad4ac
+  team: team8
+- name: "TE Challenge Phase II Overview"
+  description: "Plenary intro to NIST TE Challenge at Portland TE Systems Conference"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2OverviewTESCJune2017Portland.pdf
+  md5: c42dc82e013b0ab04a2ad004e4113a82
+  sha512: 0d472e0546bde808b4887e9478e4ae4aa805793d0f9b2e37793a7c00900f0e4635a302956f523d5e2cd5a730bec02c4a6f5d6981476aa00f0793703e86d7ec33
+  team: team8
+- name: "TESC TE Challenge Phase II June 2017 Workshop"
+  description: "NIST TE Challenge Phase II Workshop Portland TESC June 2017"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2-PortlandTESCworkshop20170614.pdf
+  md5: 35417e74eb45143eb210a1d5a90b6281
+  sha512: 118427b5308eba340dabdc8bea81f9408db366d12d39e5f802b4703e01a51b99bec39a24e45b628b0c7578f608dc96c506acd5a2e41fcc7853b8c8b9d65bc41d
+  team: team8
+- name: "The Policymaker's Toolkit--Vital Questions to be Addressed about Proposed TE Systems"
+  description: "TE Challenge Phase I Bus&Reg team white paper presented at Portland TESC June 2017"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/BusRegTeam-PolicymakerToolkitPaper-Jun2017.pdf
+  md5: 6169be039872b92c65c7df9537b1c1ee
+  sha512: fbfbc6618d50a07a9941dff33c91535440766f025aad180ccf5fa4163fc417ebaa2e2d672be49be3b695977cdc2c731ebee9a40f955ba8804ff8b53a9876ab41
+  team: team8
+- name: "TE Challenge Phase II Team Collaboration Meeting #6"
+  description: "Finalizing Grid and Metrics"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECP2TeamCollab20170628.pdf
+  md5: 7c9cfb54b9c1004880d1901f9840bece
+  sha512: 131136ea02160cf5fb2356102f33d203fe000ad0ead28c89865f3074306c48d6b95a2e817f1adb754d0e0e90a140a9ed4702539df48618c4df72b9499d2fbc72
+  team: team8
+- name: "TE Challenge Common Metrics"
+  description: "Common metrics for reporting simulation results July 14, 2017"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECMetrics20170714.docx
+  md5: 09cda5f901d0db86222c09caf678b2e8
+  sha512: 325e067d53bd2c3659ccbf07f53d10ce0eb7e281ed3e6cb64872e5f14827260d1428dd531874bf62dc67607e10ce57637c09070f48c4d7e1fed638230d8bd68a
+  team: team8
+- name: "TE Challenge Scenario 20170714"
+  description: "Description of Challenge components agreed on by teams"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TEChallengeScenario20170714.docx
+  md5: eeed501fa97ab76c7b57a24cfd842e93
+  sha512: abae66ca7ed75a36a5f5dfc5a43393ddf8777a29a6ee33bb46c2de6d36accb5e45dcefd8804f3af5b1c3dc2211b022b6848705e9dfc1acdbd0ae773f7ca143c0
+  team: team8
+- name: "TE Challenge Team intro slide"
+  description: "For teams to use to introduce their team plans on collaboration site"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECTeamSummarySlideTemplateJuly2017.pptx
+  md5: dfebaec886fca6f0ac05ea4901196cdc
+  sha512: 45728def249b36f72c8ee4003c250f18a8e34287b30cf2a602f3e028877300bab76f2700ae03ce16ae281b02a27413939b15d4041eea4c65bab4d252d29e78e6
+  team: team8
+- name: "TE Challenge PNNL Team intro slide"
+  description: "Summary of PNNL project plans"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/PNNL-TEC2-intro.pdf
+  md5: 2fe128dc1b100b27e2698bfc5a474ef1
+  sha512: 84df697e2f3c7e421c98328ff28a60a1d2b5725080defb4f8ad7161df6e424ced1abce8570316c521f7abb23de7b3117159a58f04f3e328865e191b9fe738ec9
+  team: team8
+- name: "TEC Phase II summary slide for MIT"
+  description: "participation details"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/MIT-TEC2-intro.pdf
+  md5: 689a4d0812e254998b8dabfca2da43ae
+  sha512: 01e41f8b83236f8d4da38f540d93ccd441d3f1cff174109d5b6acdf4b103287a714960ac7d57a7a61367fd23decf6c60d8b0ff42eba93407108833fac23984de
+  team: team8
+- name: "TEC Phase II summary slide for UPR"
+  description: "participation details"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/UPRM-TEC2-intro.pdf
+  md5: c5f52e9c02e5fa77c50152152dcd6a7a
+  sha512: 7fbd493b3039920c7fcdafcfca5177fd561fffab866bfe7edf3b0f56247a3433b67b04f3efce4dabef2d21c3981df6d63ef6391d35b1c68f75a4ae8678c3e3e1
+  team: team8
+- name: "TEC Phase II summary slide for Vanderbilt"
+  description: "participation details"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/Vanderbilt-TEC2-intro.pdf
+  md5: 3932770e62bd206aaa96e56aac388c15
+  sha512: 828175fb456b0e8054112c3be9d8fb1c97fdbe33278f139d8b9b51b8f6b9c9bba43ef44e61b5a8980410407dac9d66af1835707fe09eef8b89c9f141c3037466
+  team: team8
+- name: "TEC Phase II summary slide for NREL"
+  description: "participation details"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/NREL-TEC2-intro.pdf
+  md5: 7adbb099db3ccb0f8eada05bfdca53f9
+  sha512: 9fea4603fd58e9b4d9fbf8b29f25053fde2d348ace8ad52c85e747fa24e6b2bf6334d15efd1562147e6dba493faa435ea2c4d9c4a480ad0049e540ad01674087
+  team: team8
+- name: "TEC2 summary slide for TCS"
+  description: "participation details"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/teams/TCS-TEC2-intro.pdf
+  md5: e4de8daf494c52ac455f1944fb702576
+  sha512: bbd5924aaaf56b57a62ea330c0808d1c78406b640d52f66757278b782023eeacffd9a30b16d92f319c873d9113b712dce65b7306b613c87ac1e68037766cb9bc
+  team: team8

@@ -4,11 +4,16 @@ layout: page
 ---
 # TE Challenge Tool Chest
 
-## Phase II Challenge Scenario Development
+## Phase II Challenge Scenario 
 
-TE Challenge teams will work together to agree on a common Challenge Scenario and common metrics for reporting results. Teams will simulate the agreed-on scenario and report using the agreed upon metrics. As part of the process, teams will be encouraged to use a common grid topology to aid in comparison of results, but it is not required that every team use the same grid. It is likely that we will end up with a small collection of shared grid definitions, where one grid may be more useful to a team than another depending on the research goals of each team. 
+TE Challenge teams have worked together to agree on: 
 
-Through a series of meetings (May-July 2017), teams will take the following actions. The result of this collaboration will be to better understand the common TE co-simulation model, and to help us to produce TE simulation results that can be more easily compared and which together will increase our understanding of the useful application of TE methods.
+### >> a common <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TEChallengeScenario20170714.docx">Challenge Scenario</a>, and 
+### >> <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECMetrics20170714.docx">Common Metrics</a> for reporting results
+
+Teams will simulate the agreed-on scenario and report using the agreed upon metrics. As part of the process, teams will be encouraged to use the identified common grid topology to aid in comparison of results, but it is not required that every team use the same grid. Teams may use a reduced version of the grid, modified grid, or even a different grid as is necessary to implement the use case on the team simulation platform and as needed to fit the team goals for TE methodology or other research goals of a team. 
+
+Through a series of meetings (May-July 2017), teams are in process of taking the following actions. The result of this collaboration will be to better understand the common TE co-simulation model, and to help us to produce TE simulation results that can be more easily compared and which together will increase our understanding of the useful application of TE methods.
 
   * Review the Phase I common platform model (platform-agnostic model for interoperable TE co-simulation) and consider how different teams might take a step toward implementing some part of the model in their research;
   * Review and agree on the Challenge Scenario narrative;
@@ -17,8 +22,10 @@ Through a series of meetings (May-July 2017), teams will take the following acti
   * Develop a set of common metrics to be used to report team simulation results, that allows comparing results of TE co-simulations;
   * Share results of team efforts to implement the Challenge Scenario.
 
-More details about the process, and each of the bullet items above, along with meeting schedule for the collaborative development, is included in the 
+More details about the process, and each of the bullet items above, is included in the 
 <a href="https://s3.amazonaws.com/nist-sgcps/TEChallenge/Library/TECCollabScenDevp20170420.docx">TE Challenge Phase II Collaborative Scenario Development</a> document.
+
+The Phase II Simulation Phase is in progress through January 2018, based on implementing the above referenced Challenge Scenario. 
 
 ## Modeling and Simulation Tools
 
